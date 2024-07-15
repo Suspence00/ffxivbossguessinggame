@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FFXIV Boss Guessing Game</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+</head>
+<body>
+    <div id="game">
+        <h1>Guess the FFXIV Boss</h1>
+        <button id="instructions-button">Instructions</button>
+        <div id="score-box">
+            <div id="score">Score: 2000</div>
+        </div>
+        <div id="instructions-popup" class="popup" style="display: none;">
+            <h2>How to Play</h2>
+            <p>Guess the name of the FFXIV boss based on the image shown.</p>
+            <p>You start with 2000 points. Each incorrect guess reduces your points. You can use hints, but they will cost points:</p>
+            <ul>
+                <li>Type of Content: -200 pts</li>
+                <li>Name of Content: -300 pts</li>
+                <li>First Letter: -300 pts</li>
+                <li>Patch: -200 pts</li>
+            </ul>
+            <p>If your score reaches 0 or below, the game is over.</p>
+            <button id="close-instructions">Close</button>
+        </div>
+        <div id="boss-name-box">
+            <div id="boss-name-display"></div>
+        </div>
+        <div id="image-container">
+            <img id="boss-image" src="" alt="Boss Image">
+        </div>
+        <div id="guessing-box">
+            <input id="guess-input" type="text" placeholder="Type boss name...">
+            <button id="submit-guess">Submit</button>
+            <button id="randomize-boss">Randomize Boss</button>
+        </div>
+        <div id="hints">
+            <button class="hint-button" id="hint-type">Type of Content (-200 pts)</button>
+            <button class="hint-button" id="hint-content">Name of Content (-300 pts)</button>
+            <button class="hint-button" id="hint-first_letter">First Letter (-300 pts)</button>
+            <button class="hint-button" id="hint-patch">Patch (-200 pts)</button>
+        </div>
+        <div id="hint-display"></div>
+    </div>
+    <footer>
+        <p>All characters and names © Square Enix FFXIV.</p>
+        <p>Information and images sourced from ConsoleGamesWiki.</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>

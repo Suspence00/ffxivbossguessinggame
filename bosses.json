@@ -1,0 +1,4448 @@
+[
+    {
+        "name": "724P-operated Superior Flight Unit (A-lpha)",
+        "image": "boss_images\\724P-operated Superior Flight Unit (A-lpha).jpg",
+        "type": "Alliance Raids",
+        "content": "The Puppets' Bunker",
+        "first_letter": "7",
+        "patch": "5.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/724P-operated_Superior_Flight_Unit_(A-lpha)"
+    },
+    {
+        "name": "767P-operated Superior Flight Unit (B-eta)",
+        "image": "boss_images\\767P-operated Superior Flight Unit (B-eta).jpg",
+        "type": "Alliance Raids",
+        "content": "The Puppets' Bunker",
+        "first_letter": "7",
+        "patch": "5.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/767P-operated_Superior_Flight_Unit_(B-eta)"
+    },
+    {
+        "name": "772P-operated Superior Flight Unit (C-hi)",
+        "image": "boss_images\\772P-operated Superior Flight Unit (C-hi).jpg",
+        "type": "Alliance Raids",
+        "content": "The Puppets' Bunker",
+        "first_letter": "7",
+        "patch": "5.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/772P-operated_Superior_Flight_Unit_(C-hi)"
+    },
+    {
+        "name": "813P-operated Aegis Unit",
+        "image": "boss_images\\813P-operated Aegis Unit.jpg",
+        "type": "Alliance Raids",
+        "content": "The Puppets' Bunker",
+        "first_letter": "8",
+        "patch": "5.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/813P-operated_Aegis_Unit"
+    },
+    {
+        "name": "8th Order Patriarch Be Gu",
+        "image": "boss_images\\8th Order Patriarch Be Gu.jpg",
+        "type": "Dungeons",
+        "content": "Pharos Sirius (Hard)",
+        "first_letter": "8",
+        "patch": "3.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/8th_Order_Patriarch_Be_Gu"
+    },
+    {
+        "name": "905P-operated Heavy Artillery Unit",
+        "image": "boss_images\\905P-operated Heavy Artillery Unit.jpg",
+        "type": "Alliance Raids",
+        "content": "The Puppets' Bunker",
+        "first_letter": "9",
+        "patch": "5.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/905P-operated_Heavy_Artillery_Unit"
+    },
+    {
+        "name": "9S-operated Walking Fortress",
+        "image": "boss_images\\9S-operated Walking Fortress.jpg",
+        "type": "Alliance Raids",
+        "content": "The Copied Factory",
+        "first_letter": "9",
+        "patch": "5.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/9S-operated_Walking_Fortress"
+    },
+    {
+        "name": "Achamoth",
+        "image": "boss_images\\Achamoth.jpg",
+        "type": "Dungeons",
+        "content": "The Lost City of Amdapor (Hard)",
+        "first_letter": "A",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Achamoth"
+    },
+    {
+        "name": "Adjudicator",
+        "image": "boss_images\\Adjudicator.jpg",
+        "type": "Dungeons",
+        "content": "The Sunken Temple of Qarn",
+        "first_letter": "A",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Adjudicator"
+    },
+    {
+        "name": "Aenc Thon, Lord of the Lengthsome Gait",
+        "image": "boss_images\\Aenc Thon, Lord of the Lengthsome Gait.jpg",
+        "type": "Dungeons",
+        "content": "Dohn Mheg",
+        "first_letter": "A",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Aenc_Thon,_Lord_of_the_Lengthsome_Gait"
+    },
+    {
+        "name": "Aenc Thon, Lord of the Lingering Gaze",
+        "image": "boss_images\\Aenc Thon, Lord of the Lingering Gaze.jpg",
+        "type": "Dungeons",
+        "content": "Dohn Mheg",
+        "first_letter": "A",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Aenc_Thon,_Lord_of_the_Lingering_Gaze"
+    },
+    {
+        "name": "Agdistis",
+        "image": "boss_images\\Agdistis.jpg",
+        "type": "Normal Raids",
+        "content": "Abyssos: The Seventh Circle",
+        "first_letter": "A",
+        "patch": "6.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Agdistis"
+    },
+    {
+        "name": "Agrias",
+        "image": "boss_images\\Agrias.jpg",
+        "type": "Alliance Raids",
+        "content": "The Orbonne Monastery",
+        "first_letter": "A",
+        "patch": "4.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Agrias"
+    },
+    {
+        "name": "Aiatar",
+        "image": "boss_images\\Aiatar.jpg",
+        "type": "Dungeons",
+        "content": "Brayflox's Longstop",
+        "first_letter": "A",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Aiatar"
+    },
+    {
+        "name": "Albion",
+        "image": "boss_images\\Albion.jpg",
+        "type": "Dungeons",
+        "content": "Lapis Manalis",
+        "first_letter": "A",
+        "patch": "6.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Albion"
+    },
+    {
+        "name": "Alexander Prime",
+        "image": "boss_images\\Alexander Prime.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Soul of the Creator",
+        "first_letter": "A",
+        "patch": "3.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Alexander_Prime"
+    },
+    {
+        "name": "All-seeing Eye",
+        "image": "boss_images\\All-seeing Eye.jpg",
+        "type": "Dungeons",
+        "content": "Dzemael Darkhold",
+        "first_letter": "A",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/All-seeing_Eye"
+    },
+    {
+        "name": "Alpha Omega",
+        "image": "boss_images\\Alpha Omega.jpg",
+        "type": "Raid Finder",
+        "content": "The Omega Protocol (Ultimate)",
+        "first_letter": "A",
+        "patch": "6.31",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Alpha_Omega"
+    },
+    {
+        "name": "Alpha Zaghnal",
+        "image": "boss_images\\Alpha Zaghnal.jpg",
+        "type": "Dungeons",
+        "content": "The Twinning",
+        "first_letter": "A",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Alpha_Zaghnal"
+    },
+    {
+        "name": "Alte Roite (Boss)",
+        "image": "boss_images\\Alte Roite (Boss).jpg",
+        "type": "Normal Raids",
+        "content": "Deltascape V1.0",
+        "first_letter": "A",
+        "patch": "4.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Alte_Roite_(Boss)"
+    },
+    {
+        "name": "Althyk (Boss)",
+        "image": "boss_images\\Althyk (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Euphrosyne",
+        "first_letter": "A",
+        "patch": "6.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Althyk_(Boss)"
+    },
+    {
+        "name": "Ambujam",
+        "image": "boss_images\\Ambujam.jpg",
+        "type": "Dungeons",
+        "content": "Alzadaal's Legacy",
+        "first_letter": "A",
+        "patch": "6.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ambujam"
+    },
+    {
+        "name": "Amhuluk",
+        "image": "boss_images\\Amhuluk.jpg",
+        "type": "Dungeons",
+        "content": "Paglth'an",
+        "first_letter": "A",
+        "patch": "5.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Amhuluk"
+    },
+    {
+        "name": "Amikiri",
+        "image": "boss_images\\Amikiri.jpg",
+        "type": "Dungeons",
+        "content": "Shisui of the Violet Tides",
+        "first_letter": "A",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Amikiri"
+    },
+    {
+        "name": "Amon",
+        "image": "boss_images\\Amon.jpg",
+        "type": "Alliance Raids",
+        "content": "Syrcus Tower",
+        "first_letter": "A",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Amon"
+    },
+    {
+        "name": "Amon the Undying",
+        "image": "boss_images\\Amon the Undying.jpg",
+        "type": "Dungeons",
+        "content": "The Aitiascope",
+        "first_letter": "A",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Amon_the_Undying"
+    },
+    {
+        "name": "Amphibious Talos",
+        "image": "boss_images\\Amphibious Talos.jpg",
+        "type": "Dungeons",
+        "content": "Malikah's Well",
+        "first_letter": "A",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Amphibious_Talos"
+    },
+    {
+        "name": "Anantaboga",
+        "image": "boss_images\\Anantaboga.jpg",
+        "type": "Dungeons",
+        "content": "Amdapor Keep",
+        "first_letter": "A",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Anantaboga"
+    },
+    {
+        "name": "Anchag",
+        "image": "boss_images\\Anchag.jpg",
+        "type": "Dungeons",
+        "content": "Amdapor Keep (Hard)",
+        "first_letter": "A",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Anchag"
+    },
+    {
+        "name": "Angra Mainyu",
+        "image": "boss_images\\Angra Mainyu.jpg",
+        "type": "Alliance Raids",
+        "content": "The World of Darkness",
+        "first_letter": "A",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Angra_Mainyu"
+    },
+    {
+        "name": "Anima (Boss)",
+        "image": "boss_images\\Anima (Boss).jpg",
+        "type": "Dungeons",
+        "content": "The Tower of Babil",
+        "first_letter": "A",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Anima_(Boss)"
+    },
+    {
+        "name": "Annia quo Soranus",
+        "image": "boss_images\\Annia quo Soranus.jpg",
+        "type": "Dungeons",
+        "content": "The Ghimlyt Dark",
+        "first_letter": "A",
+        "patch": "4.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Annia_quo_Soranus"
+    },
+    {
+        "name": "Arachne Eve",
+        "image": "boss_images\\Arachne Eve.jpg",
+        "type": "Alliance Raids",
+        "content": "The Weeping City of Mhach",
+        "first_letter": "A",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Arachne_Eve"
+    },
+    {
+        "name": "Arbuda",
+        "image": "boss_images\\Arbuda.jpg",
+        "type": "Dungeons",
+        "content": "The Temple of the Fist",
+        "first_letter": "A",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Arbuda"
+    },
+    {
+        "name": "Arch-Lambda",
+        "image": "boss_images\\Arch-Lambda.jpg",
+        "type": "Dungeons",
+        "content": "The Stigma Dreamscape",
+        "first_letter": "A",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Arch-Lambda"
+    },
+    {
+        "name": "Argath Thadalfus",
+        "image": "boss_images\\Argath Thadalfus.jpg",
+        "type": "Alliance Raids",
+        "content": "The Royal City of Rabanastre",
+        "first_letter": "A",
+        "patch": "4.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Argath_Thadalfus"
+    },
+    {
+        "name": "Arioch",
+        "image": "boss_images\\Arioch.jpg",
+        "type": "Dungeons",
+        "content": "The Lost City of Amdapor",
+        "first_letter": "A",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Arioch"
+    },
+    {
+        "name": "Arkas",
+        "image": "boss_images\\Arkas.jpg",
+        "type": "Dungeons",
+        "content": "The Aetherfont",
+        "first_letter": "A",
+        "patch": "6.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Arkas"
+    },
+    {
+        "name": "Armored Chariot",
+        "image": "boss_images\\Armored Chariot.jpg",
+        "type": "Dungeons",
+        "content": "Alzadaal's Legacy",
+        "first_letter": "A",
+        "patch": "6.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Armored_Chariot"
+    },
+    {
+        "name": "Armored Weapon (Enemy)",
+        "image": "boss_images\\Armored Weapon (Enemy).jpg",
+        "type": "Dungeons",
+        "content": "Baelsar's Wall",
+        "first_letter": "A",
+        "patch": "3.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Armored_Weapon_(Enemy)"
+    },
+    {
+        "name": "Ascian Prime",
+        "image": "boss_images\\Ascian Prime.jpg",
+        "type": "Dungeons",
+        "content": "The Aetherochemical Research Facility",
+        "first_letter": "A",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ascian_Prime"
+    },
+    {
+        "name": "Ash",
+        "image": "boss_images\\Ash.jpg",
+        "type": "Dungeons",
+        "content": "Haukke Manor (Hard)",
+        "first_letter": "A",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ash"
+    },
+    {
+        "name": "Athena (boss)",
+        "image": "boss_images\\Athena (boss).jpg",
+        "type": "Normal Raids",
+        "content": "Anabaseios: The Twelfth Circle",
+        "first_letter": "A",
+        "patch": "6.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Athena_(boss)"
+    },
+    {
+        "name": "Aulus mal Asina",
+        "image": "boss_images\\Aulus mal Asina.jpg",
+        "type": "Dungeons",
+        "content": "Ala Mhigo",
+        "first_letter": "A",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Aulus_mal_Asina"
+    },
+    {
+        "name": "Avere Bravearm (Boss)",
+        "image": "boss_images\\Avere Bravearm (Boss).jpg",
+        "type": "Dungeons",
+        "content": "The Tam-Tara Deepcroft (Hard)",
+        "first_letter": "A",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Avere_Bravearm_(Boss)"
+    },
+    {
+        "name": "Azeyma (Boss)",
+        "image": "boss_images\\Azeyma (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Aglaia",
+        "first_letter": "A",
+        "patch": "6.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Azeyma_(Boss)"
+    },
+    {
+        "name": "Bahamut Prime",
+        "image": "boss_images\\Bahamut Prime.jpg",
+        "type": "Raids",
+        "content": "The Final Coil of Bahamut - Turn 4",
+        "first_letter": "B",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Bahamut_Prime"
+    },
+    {
+        "name": "Bahamut Prime (Golden)",
+        "image": "boss_images\\Bahamut Prime (Golden).jpg",
+        "type": "Raid Finder",
+        "content": "The Unending Coil of Bahamut (Ultimate)",
+        "first_letter": "B",
+        "patch": "4.11",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Bahamut_Prime_(Golden)"
+    },
+    {
+        "name": "Barbariccia",
+        "image": "boss_images\\Barbariccia.jpg",
+        "type": "Trials",
+        "content": "Storm's Crown",
+        "first_letter": "B",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Barbariccia"
+    },
+    {
+        "name": "Bardam",
+        "image": "boss_images\\Bardam.jpg",
+        "type": "Dungeons",
+        "content": "Bardam's Mettle",
+        "first_letter": "B",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Bardam"
+    },
+    {
+        "name": "Barnabas",
+        "image": "boss_images\\Barnabas.jpg",
+        "type": "Dungeons",
+        "content": "The Tower of Babil",
+        "first_letter": "B",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Barnabas"
+    },
+    {
+        "name": "Batraal",
+        "image": "boss_images\\Batraal.jpg",
+        "type": "Dungeons",
+        "content": "Dzemael Darkhold",
+        "first_letter": "B",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Batraal"
+    },
+    {
+        "name": "Batsquatch",
+        "image": "boss_images\\Batsquatch.jpg",
+        "type": "Dungeons",
+        "content": "The Qitana Ravel",
+        "first_letter": "B",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Batsquatch"
+    },
+    {
+        "name": "Battle Coeurl",
+        "image": "boss_images\\Battle Coeurl.jpg",
+        "type": "Dungeons",
+        "content": "Hullbreaker Isle (Hard)",
+        "first_letter": "B",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Battle_Coeurl"
+    },
+    {
+        "name": "Beatrice",
+        "image": "boss_images\\Beatrice.jpg",
+        "type": "Dungeons",
+        "content": "The Fell Court of Troia",
+        "first_letter": "B",
+        "patch": "6.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Beatrice"
+    },
+    {
+        "name": "Belias, the Gigas",
+        "image": "boss_images\\Belias, the Gigas.jpg",
+        "type": "Alliance Raids",
+        "content": "The Ridorana Lighthouse",
+        "first_letter": "B",
+        "patch": "4.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Belias,_the_Gigas"
+    },
+    {
+        "name": "Belladonna (enemy)",
+        "image": "boss_images\\Belladonna (enemy).jpg",
+        "type": "Dungeons",
+        "content": "Saint Mocianne's Arboretum",
+        "first_letter": "B",
+        "patch": "3.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Belladonna_(enemy)"
+    },
+    {
+        "name": "Biggy",
+        "image": "boss_images\\Biggy.jpg",
+        "type": "Dungeons",
+        "content": "Copperbell Mines (Hard)",
+        "first_letter": "B",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Biggy"
+    },
+    {
+        "name": "Bismarck",
+        "image": "boss_images\\Bismarck.jpg",
+        "type": "Trials",
+        "content": "The Limitless Blue (Hard)",
+        "first_letter": "B",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Bismarck"
+    },
+    {
+        "name": "Blaster",
+        "image": "boss_images\\Blaster.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Cuff of the Son",
+        "first_letter": "B",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Blaster"
+    },
+    {
+        "name": "Bone Dragon",
+        "image": "boss_images\\Bone Dragon.jpg",
+        "type": "Alliance Raids",
+        "content": "The Labyrinth of the Ancients",
+        "first_letter": "B",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Bone_Dragon"
+    },
+    {
+        "name": "Boogyman",
+        "image": "boss_images\\Boogyman.jpg",
+        "type": "Dungeons",
+        "content": "Amdapor Keep (Hard)",
+        "first_letter": "B",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Boogyman"
+    },
+    {
+        "name": "Brawler",
+        "image": "boss_images\\Brawler.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Cuff of the Son",
+        "first_letter": "B",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Brawler"
+    },
+    {
+        "name": "Brute Justice",
+        "image": "boss_images\\Brute Justice.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Burden of the Son",
+        "first_letter": "B",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Brute_Justice"
+    },
+    {
+        "name": "Byakko",
+        "image": "boss_images\\Byakko.jpg",
+        "type": "Trials",
+        "content": "The Jade Stoa",
+        "first_letter": "B",
+        "patch": "4.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Byakko"
+    },
+    {
+        "name": "Byblos",
+        "image": "boss_images\\Byblos.jpg",
+        "type": "Dungeons",
+        "content": "The Great Gubal Library",
+        "first_letter": "B",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Byblos"
+    },
+    {
+        "name": "Byregot (Boss)",
+        "image": "boss_images\\Byregot (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Aglaia",
+        "first_letter": "B",
+        "patch": "6.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Byregot_(Boss)"
+    },
+    {
+        "name": "Cagnazzo",
+        "image": "boss_images\\Cagnazzo.jpg",
+        "type": "Dungeons",
+        "content": "Lapis Manalis",
+        "first_letter": "C",
+        "patch": "6.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Cagnazzo"
+    },
+    {
+        "name": "Calcabrina",
+        "image": "boss_images\\Calcabrina.jpg",
+        "type": "Dungeons",
+        "content": "The Antitower",
+        "first_letter": "C",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Calcabrina"
+    },
+    {
+        "name": "Calofisteri",
+        "image": "boss_images\\Calofisteri.jpg",
+        "type": "Alliance Raids",
+        "content": "The Weeping City of Mhach",
+        "first_letter": "C",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Calofisteri"
+    },
+    {
+        "name": "Canu Vanu",
+        "image": "boss_images\\Canu Vanu.jpg",
+        "type": "Dungeons",
+        "content": "Neverreap",
+        "first_letter": "C",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Canu_Vanu"
+    },
+    {
+        "name": "Captain Madison",
+        "image": "boss_images\\Captain Madison.jpg",
+        "type": "Dungeons",
+        "content": "Sastasha",
+        "first_letter": "C",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Captain_Madison"
+    },
+    {
+        "name": "Captain Madison (Hard)",
+        "image": "boss_images\\Captain Madison (Hard).jpg",
+        "type": "Dungeons",
+        "content": "Sastasha (Hard)",
+        "first_letter": "C",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Captain_Madison_(Hard)"
+    },
+    {
+        "name": "Catastrophe",
+        "image": "boss_images\\Catastrophe.jpg",
+        "type": "Normal Raids",
+        "content": "Deltascape V2.0",
+        "first_letter": "C",
+        "patch": "4.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Catastrophe"
+    },
+    {
+        "name": "Catoblepas (Mob)",
+        "image": "boss_images\\Catoblepas (Mob).jpg",
+        "type": "Dungeons",
+        "content": "Halatali (Hard)",
+        "first_letter": "C",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Catoblepas_(Mob)"
+    },
+    {
+        "name": "Caustic Grebuloff",
+        "image": "boss_images\\Caustic Grebuloff.jpg",
+        "type": "Dungeons",
+        "content": "The Dead Ends",
+        "first_letter": "C",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Caustic_Grebuloff"
+    },
+    {
+        "name": "Cerberus",
+        "image": "boss_images\\Cerberus.jpg",
+        "type": "Alliance Raids",
+        "content": "The World of Darkness",
+        "first_letter": "C",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Cerberus"
+    },
+    {
+        "name": "Chaos",
+        "image": "boss_images\\Chaos.jpg",
+        "type": "Normal Raids",
+        "content": "Alphascape V1.0",
+        "first_letter": "C",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Chaos"
+    },
+    {
+        "name": "Chieftain Moglin",
+        "image": "boss_images\\Chieftain Moglin.jpg",
+        "type": "Dungeons",
+        "content": "Sohr Khai",
+        "first_letter": "C",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Chieftain_Moglin"
+    },
+    {
+        "name": "Chimera (Boss)",
+        "image": "boss_images\\Chimera (Boss).jpg",
+        "type": "Dungeons",
+        "content": "Cutter's Cry",
+        "first_letter": "C",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Chimera_(Boss)"
+    },
+    {
+        "name": "Chopper",
+        "image": "boss_images\\Chopper.jpg",
+        "type": "Dungeons",
+        "content": "Sastasha",
+        "first_letter": "C",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Chopper"
+    },
+    {
+        "name": "Chudo-Yudo",
+        "image": "boss_images\\Chudo-Yudo.jpg",
+        "type": "Dungeons",
+        "content": "The Stone Vigil",
+        "first_letter": "C",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Chudo-Yudo"
+    },
+    {
+        "name": "Cinduruva",
+        "image": "boss_images\\Cinduruva.jpg",
+        "type": "Dungeons",
+        "content": "The Tower of Zot",
+        "first_letter": "C",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Cinduruva"
+    },
+    {
+        "name": "Cladoselache",
+        "image": "boss_images\\Cladoselache.jpg",
+        "type": "Dungeons",
+        "content": "Akadaemia Anyder",
+        "first_letter": "C",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Cladoselache"
+    },
+    {
+        "name": "Cloud of Darkness",
+        "image": "boss_images\\Cloud of Darkness.jpg",
+        "type": "Alliance Raids",
+        "content": "The World of Darkness",
+        "first_letter": "C",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Cloud_of_Darkness"
+    },
+    {
+        "name": "Cloud of Darkness (Eden)",
+        "image": "boss_images\\Cloud of Darkness (Eden).jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Promise: Umbra",
+        "first_letter": "C",
+        "patch": "5.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Cloud_of_Darkness_(Eden)"
+    },
+    {
+        "name": "Coeurl O' Nine Tails",
+        "image": "boss_images\\Coeurl O' Nine Tails.jpg",
+        "type": "Dungeons",
+        "content": "The Thousand Maws of Toto-Rak",
+        "first_letter": "C",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Coeurl_O%27_Nine_Tails"
+    },
+    {
+        "name": "Coincounter",
+        "image": "boss_images\\Coincounter.jpg",
+        "type": "Dungeons",
+        "content": "The Aurum Vale",
+        "first_letter": "C",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Coincounter"
+    },
+    {
+        "name": "Compound 2P",
+        "image": "boss_images\\Compound 2P.jpg",
+        "type": "Alliance Raids",
+        "content": "The Puppets' Bunker",
+        "first_letter": "C",
+        "patch": "5.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Compound_2P"
+    },
+    {
+        "name": "Construct 7",
+        "image": "boss_images\\Construct 7.jpg",
+        "type": "Alliance Raids",
+        "content": "The Ridorana Lighthouse",
+        "first_letter": "C",
+        "patch": "4.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Construct_7"
+    },
+    {
+        "name": "Cruise Chaser",
+        "image": "boss_images\\Cruise Chaser.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Heart of the Creator",
+        "first_letter": "C",
+        "patch": "3.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Cruise_Chaser"
+    },
+    {
+        "name": "Cuca Fera",
+        "image": "boss_images\\Cuca Fera.jpg",
+        "type": "Dungeons",
+        "content": "The Stone Vigil (Hard)",
+        "first_letter": "C",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Cuca_Fera"
+    },
+    {
+        "name": "Cuchulainn",
+        "image": "boss_images\\Cuchulainn.jpg",
+        "type": "Alliance Raids",
+        "content": "The Void Ark",
+        "first_letter": "C",
+        "patch": "3.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Cuchulainn"
+    },
+    {
+        "name": "Daidarabotchi",
+        "image": "boss_images\\Daidarabotchi.jpg",
+        "type": "Dungeons",
+        "content": "The Swallow's Compass",
+        "first_letter": "D",
+        "patch": "4.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Daidarabotchi"
+    },
+    {
+        "name": "Damaged Adjudicator",
+        "image": "boss_images\\Damaged Adjudicator.jpg",
+        "type": "Dungeons",
+        "content": "The Sunken Temple of Qarn (Hard)",
+        "first_letter": "D",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Damaged_Adjudicator"
+    },
+    {
+        "name": "Damcyan Antlion",
+        "image": "boss_images\\Damcyan Antlion.jpg",
+        "type": "Dungeons",
+        "content": "The Lunar Subterrane",
+        "first_letter": "D",
+        "patch": "6.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Damcyan_Antlion"
+    },
+    {
+        "name": "Dark Elf",
+        "image": "boss_images\\Dark Elf.jpg",
+        "type": "Dungeons",
+        "content": "The Lunar Subterrane",
+        "first_letter": "D",
+        "patch": "6.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Dark_Elf"
+    },
+    {
+        "name": "Deathgaze Hollow",
+        "image": "boss_images\\Deathgaze Hollow.jpg",
+        "type": "Alliance Raids",
+        "content": "Dun Scaith",
+        "first_letter": "D",
+        "patch": "3.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Deathgaze_Hollow"
+    },
+    {
+        "name": "Defective Drone",
+        "image": "boss_images\\Defective Drone.jpg",
+        "type": "Dungeons",
+        "content": "The Burn",
+        "first_letter": "D",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Defective_Drone"
+    },
+    {
+        "name": "Demon Chadarnook",
+        "image": "boss_images\\Demon Chadarnook.jpg",
+        "type": "Normal Raids",
+        "content": "Sigmascape V2.0",
+        "first_letter": "D",
+        "patch": "4.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Demon_Chadarnook"
+    },
+    {
+        "name": "Demon of the Tome",
+        "image": "boss_images\\Demon of the Tome.jpg",
+        "type": "Dungeons",
+        "content": "The Great Gubal Library (Hard)",
+        "first_letter": "D",
+        "patch": "3.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Demon_of_the_Tome"
+    },
+    {
+        "name": "Demon Wall",
+        "image": "boss_images\\Demon Wall.jpg",
+        "type": "Dungeons",
+        "content": "Amdapor Keep",
+        "first_letter": "D",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Demon_Wall"
+    },
+    {
+        "name": "Denn the Orcatoothed",
+        "image": "boss_images\\Denn the Orcatoothed.jpg",
+        "type": "Dungeons",
+        "content": "Sastasha",
+        "first_letter": "D",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Denn_the_Orcatoothed"
+    },
+    {
+        "name": "Dhorme Chimera",
+        "image": "boss_images\\Dhorme Chimera.jpg",
+        "type": "Trials",
+        "content": "A Relic Reborn: The Chimera",
+        "first_letter": "D",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Dhorme_Chimera"
+    },
+    {
+        "name": "Diabolos",
+        "image": "boss_images\\Diabolos.jpg",
+        "type": "Dungeons",
+        "content": "The Lost City of Amdapor",
+        "first_letter": "D",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Diabolos"
+    },
+    {
+        "name": "Diabolos Hollow",
+        "image": "boss_images\\Diabolos Hollow.jpg",
+        "type": "Alliance Raids",
+        "content": "Dun Scaith",
+        "first_letter": "D",
+        "patch": "3.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Diabolos_Hollow"
+    },
+    {
+        "name": "Dojun-maru",
+        "image": "boss_images\\Dojun-maru.jpg",
+        "type": "Dungeons",
+        "content": "Kugane Castle",
+        "first_letter": "D",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Dojun-maru"
+    },
+    {
+        "name": "Doliodus",
+        "image": "boss_images\\Doliodus.jpg",
+        "type": "Dungeons",
+        "content": "Akadaemia Anyder",
+        "first_letter": "D",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Doliodus"
+    },
+    {
+        "name": "Dotoli Ciloc",
+        "image": "boss_images\\Dotoli Ciloc.jpg",
+        "type": "Dungeons",
+        "content": "Xelphatol",
+        "first_letter": "D",
+        "patch": "3.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Dotoli_Ciloc"
+    },
+    {
+        "name": "Dragon-king Thordan",
+        "image": "boss_images\\Dragon-king Thordan.jpg",
+        "type": "Raid Finder",
+        "content": "Dragonsong's Reprise (Ultimate)",
+        "first_letter": "D",
+        "patch": "6.11",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Dragon-king_Thordan"
+    },
+    {
+        "name": "Durante",
+        "image": "boss_images\\Durante.jpg",
+        "type": "Dungeons",
+        "content": "The Lunar Subterrane",
+        "first_letter": "D",
+        "patch": "6.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Durante"
+    },
+    {
+        "name": "Eden Prime",
+        "image": "boss_images\\Eden Prime.jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Gate: Resurrection",
+        "first_letter": "E",
+        "patch": "5.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Eden_Prime"
+    },
+    {
+        "name": "Eden's Promise (boss)",
+        "image": "boss_images\\Eden's Promise (boss).jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Promise: Eternity",
+        "first_letter": "E",
+        "patch": "5.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Eden%27s_Promise_(boss)"
+    },
+    {
+        "name": "Einhander",
+        "image": "boss_images\\Einhander.jpg",
+        "type": "Dungeons",
+        "content": "The Keeper of the Lake",
+        "first_letter": "E",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Einhander"
+    },
+    {
+        "name": "Eliminator",
+        "image": "boss_images\\Eliminator.jpg",
+        "type": "Dungeons",
+        "content": "Alexandria",
+        "first_letter": "E",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Eliminator"
+    },
+    {
+        "name": "Enenra",
+        "image": "boss_images\\Enenra.jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "Mount Rokkon",
+        "first_letter": "E",
+        "patch": "6.45",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Enenra"
+    },
+    {
+        "name": "Engels",
+        "image": "boss_images\\Engels.jpg",
+        "type": "Alliance Raids",
+        "content": "The Copied Factory",
+        "first_letter": "E",
+        "patch": "5.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Engels"
+    },
+    {
+        "name": "Enkidu (Boss)",
+        "image": "boss_images\\Enkidu (Boss).jpg",
+        "type": "Trials",
+        "content": "Battle in the Big Keep",
+        "first_letter": "E",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Enkidu_(Boss)"
+    },
+    {
+        "name": "Erichthonios",
+        "image": "boss_images\\Erichthonios.jpg",
+        "type": "Normal Raids",
+        "content": "Asphodelos: The First Circle",
+        "first_letter": "E",
+        "patch": "6.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Erichthonios"
+    },
+    {
+        "name": "Eros",
+        "image": "boss_images\\Eros.jpg",
+        "type": "Dungeons",
+        "content": "The Qitana Ravel",
+        "first_letter": "E",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Eros"
+    },
+    {
+        "name": "Eulogia",
+        "image": "boss_images\\Eulogia.jpg",
+        "type": "Alliance Raids",
+        "content": "Thaleia",
+        "first_letter": "E",
+        "patch": "6.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Eulogia"
+    },
+    {
+        "name": "Evil Dreamer",
+        "image": "boss_images\\Evil Dreamer.jpg",
+        "type": "Dungeons",
+        "content": "The Fell Court of Troia",
+        "first_letter": "E",
+        "patch": "6.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Evil_Dreamer"
+    },
+    {
+        "name": "Exdeath",
+        "image": "boss_images\\Exdeath.jpg",
+        "type": "Normal Raids",
+        "content": "Deltascape V4.0",
+        "first_letter": "E",
+        "patch": "4.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Exdeath"
+    },
+    {
+        "name": "Face",
+        "image": "boss_images\\Face.jpg",
+        "type": "Dungeons",
+        "content": "Smileton",
+        "first_letter": "F",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Face"
+    },
+    {
+        "name": "False Idol",
+        "image": "boss_images\\False Idol.jpg",
+        "type": "Alliance Raids",
+        "content": "The Tower at Paradigm's Breach",
+        "first_letter": "F",
+        "patch": "5.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/False_Idol"
+    },
+    {
+        "name": "Famfrit, the Darkening Cloud",
+        "image": "boss_images\\Famfrit, the Darkening Cloud.jpg",
+        "type": "Alliance Raids",
+        "content": "The Ridorana Lighthouse",
+        "first_letter": "F",
+        "patch": "4.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Famfrit,_the_Darkening_Cloud"
+    },
+    {
+        "name": "Fatebreaker",
+        "image": "boss_images\\Fatebreaker.jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Promise: Anamorphosis",
+        "first_letter": "F",
+        "patch": "5.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Fatebreaker"
+    },
+    {
+        "name": "Faust",
+        "image": "boss_images\\Faust.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Fist of the Father",
+        "first_letter": "F",
+        "patch": "3.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Faust"
+    },
+    {
+        "name": "Fenrir",
+        "image": "boss_images\\Fenrir.jpg",
+        "type": "Dungeons",
+        "content": "Snowcloak",
+        "first_letter": "F",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Fenrir"
+    },
+    {
+        "name": "Ferdiad",
+        "image": "boss_images\\Ferdiad.jpg",
+        "type": "Dungeons",
+        "content": "Amdapor Keep (Hard)",
+        "first_letter": "F",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ferdiad"
+    },
+    {
+        "name": "Ferdiad Hollow",
+        "image": "boss_images\\Ferdiad Hollow.jpg",
+        "type": "Alliance Raids",
+        "content": "Dun Scaith",
+        "first_letter": "F",
+        "patch": "3.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ferdiad_Hollow"
+    },
+    {
+        "name": "Firemane",
+        "image": "boss_images\\Firemane.jpg",
+        "type": "Dungeons",
+        "content": "Halatali",
+        "first_letter": "F",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Firemane"
+    },
+    {
+        "name": "Five-headed Dragon",
+        "image": "boss_images\\Five-headed Dragon.jpg",
+        "type": "Alliance Raids",
+        "content": "The World of Darkness",
+        "first_letter": "F",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Five-headed_Dragon"
+    },
+    {
+        "name": "Forgall",
+        "image": "boss_images\\Forgall.jpg",
+        "type": "Alliance Raids",
+        "content": "The Weeping City of Mhach",
+        "first_letter": "F",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Forgall"
+    },
+    {
+        "name": "Forgiven Cruelty",
+        "image": "boss_images\\Forgiven Cruelty.jpg",
+        "type": "Dungeons",
+        "content": "Mt. Gulg",
+        "first_letter": "F",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Forgiven_Cruelty"
+    },
+    {
+        "name": "Forgiven Dissonance",
+        "image": "boss_images\\Forgiven Dissonance.jpg",
+        "type": "Dungeons",
+        "content": "Holminster Switch",
+        "first_letter": "F",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Forgiven_Dissonance"
+    },
+    {
+        "name": "Forgiven Obscenity",
+        "image": "boss_images\\Forgiven Obscenity.jpg",
+        "type": "Dungeons",
+        "content": "Mt. Gulg",
+        "first_letter": "F",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Forgiven_Obscenity"
+    },
+    {
+        "name": "Forgiven Whimsy",
+        "image": "boss_images\\Forgiven Whimsy.jpg",
+        "type": "Dungeons",
+        "content": "Mt. Gulg",
+        "first_letter": "F",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Forgiven_Whimsy"
+    },
+    {
+        "name": "Frameworker",
+        "image": "boss_images\\Frameworker.jpg",
+        "type": "Dungeons",
+        "content": "Smileton",
+        "first_letter": "F",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Frameworker"
+    },
+    {
+        "name": "Frumious Koheel Ja",
+        "image": "boss_images\\Frumious Koheel Ja.jpg",
+        "type": "Dungeons",
+        "content": "The Wanderer's Palace (Hard)",
+        "first_letter": "F",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Frumious_Koheel_Ja"
+    },
+    {
+        "name": "Gaius van Baelsar (boss)",
+        "image": "boss_images\\Gaius van Baelsar (boss).jpg",
+        "type": "Dungeons",
+        "content": "The Praetorium",
+        "first_letter": "G",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Gaius_van_Baelsar_(boss)"
+    },
+    {
+        "name": "Galatea Magna",
+        "image": "boss_images\\Galatea Magna.jpg",
+        "type": "Dungeons",
+        "content": "Lapis Manalis",
+        "first_letter": "G",
+        "patch": "6.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Galatea_Magna"
+    },
+    {
+        "name": "Galvanth the Dominator",
+        "image": "boss_images\\Galvanth the Dominator.jpg",
+        "type": "Dungeons",
+        "content": "The Tam-Tara Deepcroft",
+        "first_letter": "G",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Galvanth_the_Dominator"
+    },
+    {
+        "name": "Garuda",
+        "image": "boss_images\\Garuda.jpg",
+        "type": "Trials",
+        "content": "The Howling Eye",
+        "first_letter": "G",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Garuda"
+    },
+    {
+        "name": "Garuda (Eden)",
+        "image": "boss_images\\Garuda (Eden).jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Verse: Furor",
+        "first_letter": "G",
+        "patch": "5.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Garuda_(Eden)"
+    },
+    {
+        "name": "Garula (Mob)",
+        "image": "boss_images\\Garula (Mob).jpg",
+        "type": "Dungeons",
+        "content": "Bardam's Mettle",
+        "first_letter": "G",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Garula_(Mob)"
+    },
+    {
+        "name": "Genbu",
+        "image": "boss_images\\Genbu.jpg",
+        "type": "Dungeons",
+        "content": "Hells' Lid",
+        "first_letter": "G",
+        "patch": "4.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Genbu"
+    },
+    {
+        "name": "Genbu (boss)",
+        "image": "boss_images\\Genbu (boss).jpg",
+        "type": "Dungeons",
+        "content": "Hells' Lid",
+        "first_letter": "G",
+        "patch": "4.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Genbu_(boss)"
+    },
+    {
+        "name": "Ghrah Luminary",
+        "image": "boss_images\\Ghrah Luminary.jpg",
+        "type": "Dungeons",
+        "content": "Pharos Sirius (Hard)",
+        "first_letter": "G",
+        "patch": "3.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ghrah_Luminary"
+    },
+    {
+        "name": "Giant Bavarois",
+        "image": "boss_images\\Giant Bavarois.jpg",
+        "type": "Dungeons",
+        "content": "The Wanderer's Palace",
+        "first_letter": "G",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Giant_Bavarois"
+    },
+    {
+        "name": "Giant Colibri",
+        "image": "boss_images\\Giant Colibri.jpg",
+        "type": "Dungeons",
+        "content": "The Aetherfont",
+        "first_letter": "G",
+        "patch": "6.55",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Giant_Colibri"
+    },
+    {
+        "name": "Giant Tunnel Worm",
+        "image": "boss_images\\Giant Tunnel Worm.jpg",
+        "type": "Dungeons",
+        "content": "Cutter's Cry",
+        "first_letter": "G",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Giant_Tunnel_Worm"
+    },
+    {
+        "name": "Gilgamesh",
+        "image": "boss_images\\Gilgamesh.jpg",
+        "type": "Trials",
+        "content": "Battle on the Big Bridge",
+        "first_letter": "G",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Gilgamesh"
+    },
+    {
+        "name": "Giruveganaus",
+        "image": "boss_images\\Giruveganaus.jpg",
+        "type": "Dungeons",
+        "content": "The Stone Vigil (Hard)",
+        "first_letter": "G",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Giruveganaus"
+    },
+    {
+        "name": "Gladiator of Sil'dih",
+        "image": "boss_images\\Gladiator of Sil'dih.jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "The Sil'dihn Subterrane",
+        "first_letter": "G",
+        "patch": "6.25",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Gladiator_of_Sil%27dih"
+    },
+    {
+        "name": "Gobmachine G-VI",
+        "image": "boss_images\\Gobmachine G-VI.jpg",
+        "type": "Dungeons",
+        "content": "Brayflox's Longstop (Hard)",
+        "first_letter": "G",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Gobmachine_G-VI"
+    },
+    {
+        "name": "Gogmagolem",
+        "image": "boss_images\\Gogmagolem.jpg",
+        "type": "Dungeons",
+        "content": "Copperbell Mines (Hard)",
+        "first_letter": "G",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Gogmagolem"
+    },
+    {
+        "name": "Golbez",
+        "image": "boss_images\\Golbez.jpg",
+        "type": "Trials",
+        "content": "The Voidcast Dais",
+        "first_letter": "G",
+        "patch": "6.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Golbez"
+    },
+    {
+        "name": "Good King Moggle Mog XII",
+        "image": "boss_images\\Good King Moggle Mog XII.jpg",
+        "type": "Trials",
+        "content": "Thornmarch (Hard)",
+        "first_letter": "G",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Good_King_Moggle_Mog_XII"
+    },
+    {
+        "name": "Gorai the Uncaged",
+        "image": "boss_images\\Gorai the Uncaged.jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "Mount Rokkon",
+        "first_letter": "G",
+        "patch": "6.45",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Gorai_the_Uncaged"
+    },
+    {
+        "name": "Gorynich",
+        "image": "boss_images\\Gorynich.jpg",
+        "type": "Dungeons",
+        "content": "The Stone Vigil (Hard)",
+        "first_letter": "G",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Gorynich"
+    },
+    {
+        "name": "Gowrow",
+        "image": "boss_images\\Gowrow.jpg",
+        "type": "Dungeons",
+        "content": "Sohm Al (Hard)",
+        "first_letter": "G",
+        "patch": "3.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Gowrow"
+    },
+    {
+        "name": "Graffias",
+        "image": "boss_images\\Graffias.jpg",
+        "type": "Dungeons",
+        "content": "The Thousand Maws of Toto-Rak",
+        "first_letter": "G",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Graffias"
+    },
+    {
+        "name": "Grand Storm Marshal Slafyrsyn",
+        "image": "boss_images\\Grand Storm Marshal Slafyrsyn.jpg",
+        "type": "Dungeons",
+        "content": "Hullbreaker Isle (Hard)",
+        "first_letter": "G",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Grand_Storm_Marshal_Slafyrsyn"
+    },
+    {
+        "name": "Great Yellow Pelican",
+        "image": "boss_images\\Great Yellow Pelican.jpg",
+        "type": "Dungeons",
+        "content": "Brayflox's Longstop",
+        "first_letter": "G",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Great_Yellow_Pelican"
+    },
+    {
+        "name": "Greater Armadillo",
+        "image": "boss_images\\Greater Armadillo.jpg",
+        "type": "Dungeons",
+        "content": "Malikah's Well",
+        "first_letter": "G",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Greater_Armadillo"
+    },
+    {
+        "name": "Greatest Serpent of Tural",
+        "image": "boss_images\\Greatest Serpent of Tural.jpg",
+        "type": "Dungeons",
+        "content": "Tender Valley",
+        "first_letter": "G",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Greatest_Serpent_of_Tural"
+    },
+    {
+        "name": "Griaule",
+        "image": "boss_images\\Griaule.jpg",
+        "type": "Dungeons",
+        "content": "Dohn Mheg",
+        "first_letter": "G",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Griaule"
+    },
+    {
+        "name": "Gurfurlur",
+        "image": "boss_images\\Gurfurlur.jpg",
+        "type": "Dungeons",
+        "content": "Worqor Zormor",
+        "first_letter": "G",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Gurfurlur"
+    },
+    {
+        "name": "Gyascutus",
+        "image": "boss_images\\Gyascutus.jpg",
+        "type": "Dungeons",
+        "content": "The Aery",
+        "first_letter": "G",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Gyascutus"
+    },
+    {
+        "name": "Gyges the Great",
+        "image": "boss_images\\Gyges the Great.jpg",
+        "type": "Dungeons",
+        "content": "Copperbell Mines",
+        "first_letter": "G",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Gyges_the_Great"
+    },
+    {
+        "name": "Hades",
+        "image": "boss_images\\Hades.jpg",
+        "type": "Trials",
+        "content": "The Dying Gasp",
+        "first_letter": "H",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hades"
+    },
+    {
+        "name": "Halicarnassus",
+        "image": "boss_images\\Halicarnassus.jpg",
+        "type": "Dungeons",
+        "content": "Haukke Manor (Hard)",
+        "first_letter": "H",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Halicarnassus"
+    },
+    {
+        "name": "Halicarnassus (Deltascape)",
+        "image": "boss_images\\Halicarnassus (Deltascape).jpg",
+        "type": "Normal Raids",
+        "content": "Deltascape V3.0",
+        "first_letter": "H",
+        "patch": "4.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Halicarnassus_(Deltascape)"
+    },
+    {
+        "name": "Halone (Boss)",
+        "image": "boss_images\\Halone (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Euphrosyne",
+        "first_letter": "H",
+        "patch": "6.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Halone_(Boss)"
+    },
+    {
+        "name": "Hansel & Gretel",
+        "image": "boss_images\\Hansel & Gretel.jpg",
+        "type": "Alliance Raids",
+        "content": "The Tower at Paradigm's Breach",
+        "first_letter": "H",
+        "patch": "5.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hansel_%26_Gretel"
+    },
+    {
+        "name": "Harmachis",
+        "image": "boss_images\\Harmachis.jpg",
+        "type": "Dungeons",
+        "content": "The Aetherochemical Research Facility",
+        "first_letter": "H",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Harmachis"
+    },
+    {
+        "name": "Hashmal, Bringer of Order",
+        "image": "boss_images\\Hashmal, Bringer of Order.jpg",
+        "type": "Alliance Raids",
+        "content": "The Royal City of Rabanastre",
+        "first_letter": "H",
+        "patch": "4.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hashmal,_Bringer_of_Order"
+    },
+    {
+        "name": "Hecatoncheir Mastermind",
+        "image": "boss_images\\Hecatoncheir Mastermind.jpg",
+        "type": "Dungeons",
+        "content": "Copperbell Mines (Hard)",
+        "first_letter": "H",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hecatoncheir_Mastermind"
+    },
+    {
+        "name": "Hedetet",
+        "image": "boss_images\\Hedetet.jpg",
+        "type": "Dungeons",
+        "content": "The Burn",
+        "first_letter": "H",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hedetet"
+    },
+    {
+        "name": "Hegemone",
+        "image": "boss_images\\Hegemone.jpg",
+        "type": "Normal Raids",
+        "content": "Abyssos: The Sixth Circle",
+        "first_letter": "H",
+        "patch": "6.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hegemone"
+    },
+    {
+        "name": "Hellbender",
+        "image": "boss_images\\Hellbender.jpg",
+        "type": "Dungeons",
+        "content": "Brayflox's Longstop",
+        "first_letter": "H",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hellbender"
+    },
+    {
+        "name": "Hephaistos",
+        "image": "boss_images\\Hephaistos.jpg",
+        "type": "Normal Raids",
+        "content": "Abyssos: The Eighth Circle",
+        "first_letter": "H",
+        "patch": "6.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hephaistos"
+    },
+    {
+        "name": "Her Inflorescence",
+        "image": "boss_images\\Her Inflorescence.jpg",
+        "type": "Alliance Raids",
+        "content": "The Tower at Paradigm's Breach",
+        "first_letter": "H",
+        "patch": "5.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Her_Inflorescence"
+    },
+    {
+        "name": "Hermes (boss)",
+        "image": "boss_images\\Hermes (boss).jpg",
+        "type": "Dungeons",
+        "content": "Ktisis Hyperboreia",
+        "first_letter": "H",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hermes_(boss)"
+    },
+    {
+        "name": "Herpekaris",
+        "image": "boss_images\\Herpekaris.jpg",
+        "type": "Dungeons",
+        "content": "Origenics",
+        "first_letter": "H",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Herpekaris"
+    },
+    {
+        "name": "Hesperos",
+        "image": "boss_images\\Hesperos.jpg",
+        "type": "Normal Raids",
+        "content": "Asphodelos: The Fourth Circle",
+        "first_letter": "H",
+        "patch": "6.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hesperos"
+    },
+    {
+        "name": "Hippokampos",
+        "image": "boss_images\\Hippokampos.jpg",
+        "type": "Normal Raids",
+        "content": "Asphodelos: The Second Circle",
+        "first_letter": "H",
+        "patch": "6.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hippokampos"
+    },
+    {
+        "name": "His Royal Headness Leonogg I",
+        "image": "boss_images\\His Royal Headness Leonogg I.jpg",
+        "type": "Dungeons",
+        "content": "The Strayborough Deadwalk",
+        "first_letter": "H",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/His_Royal_Headness_Leonogg_I"
+    },
+    {
+        "name": "Hobbes",
+        "image": "boss_images\\Hobbes.jpg",
+        "type": "Alliance Raids",
+        "content": "The Copied Factory",
+        "first_letter": "H",
+        "patch": "5.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hobbes"
+    },
+    {
+        "name": "Hraesvelgr",
+        "image": "boss_images\\Hraesvelgr.jpg",
+        "type": "Dungeons",
+        "content": "Sohr Khai",
+        "first_letter": "H",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hraesvelgr"
+    },
+    {
+        "name": "Hrodric Poisontongue",
+        "image": "boss_images\\Hrodric Poisontongue.jpg",
+        "type": "Dungeons",
+        "content": "The Drowned City of Skalla",
+        "first_letter": "H",
+        "patch": "4.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hrodric_Poisontongue"
+    },
+    {
+        "name": "Hydaelyn (boss)",
+        "image": "boss_images\\Hydaelyn (boss).jpg",
+        "type": "Trials",
+        "content": "The Mothercrystal",
+        "first_letter": "H",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hydaelyn_(boss)"
+    },
+    {
+        "name": "Hydra",
+        "image": "boss_images\\Hydra.jpg",
+        "type": "Trials",
+        "content": "A Relic Reborn: The Hydra",
+        "first_letter": "H",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hydra"
+    },
+    {
+        "name": "Hypertuned Grynewaht",
+        "image": "boss_images\\Hypertuned Grynewaht.jpg",
+        "type": "Dungeons",
+        "content": "Doma Castle",
+        "first_letter": "H",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Hypertuned_Grynewaht"
+    },
+    {
+        "name": "Ichorous Ire",
+        "image": "boss_images\\Ichorous Ire.jpg",
+        "type": "Dungeons",
+        "content": "Copperbell Mines",
+        "first_letter": "I",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ichorous_Ire"
+    },
+    {
+        "name": "Ifrit",
+        "image": "boss_images\\Ifrit.jpg",
+        "type": "Trials",
+        "content": "The Bowl of Embers",
+        "first_letter": "I",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ifrit"
+    },
+    {
+        "name": "Ifrit (Eden)",
+        "image": "boss_images\\Ifrit (Eden).jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Verse: Furor",
+        "first_letter": "I",
+        "patch": "5.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ifrit_(Eden)"
+    },
+    {
+        "name": "Igeyorhm",
+        "image": "boss_images\\Igeyorhm.jpg",
+        "type": "Dungeons",
+        "content": "The Aetherochemical Research Facility",
+        "first_letter": "I",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Igeyorhm"
+    },
+    {
+        "name": "Illuminati Commander",
+        "image": "boss_images\\Illuminati Commander.jpg",
+        "type": "Dungeons",
+        "content": "Brayflox's Longstop (Hard)",
+        "first_letter": "I",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Illuminati_Commander"
+    },
+    {
+        "name": "Imdugud",
+        "image": "boss_images\\Imdugud.jpg",
+        "type": "Raids",
+        "content": "The Final Coil of Bahamut - Turn 1",
+        "first_letter": "I",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Imdugud"
+    },
+    {
+        "name": "Inferno",
+        "image": "boss_images\\Inferno.jpg",
+        "type": "Dungeons",
+        "content": "Castrum Abania",
+        "first_letter": "I",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Inferno"
+    },
+    {
+        "name": "Inferno Drake",
+        "image": "boss_images\\Inferno Drake.jpg",
+        "type": "Dungeons",
+        "content": "Brayflox's Longstop",
+        "first_letter": "I",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Inferno_Drake"
+    },
+    {
+        "name": "Innocence",
+        "image": "boss_images\\Innocence.jpg",
+        "type": "Trials",
+        "content": "The Crown of the Immaculate",
+        "first_letter": "I",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Innocence"
+    },
+    {
+        "name": "Isgebind",
+        "image": "boss_images\\Isgebind.jpg",
+        "type": "Dungeons",
+        "content": "The Stone Vigil",
+        "first_letter": "I",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Isgebind"
+    },
+    {
+        "name": "Ivon Coeurlfist",
+        "image": "boss_images\\Ivon Coeurlfist.jpg",
+        "type": "Dungeons",
+        "content": "The Temple of the Fist",
+        "first_letter": "I",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ivon_Coeurlfist"
+    },
+    {
+        "name": "Jack-in-the-Pot",
+        "image": "boss_images\\Jack-in-the-Pot.jpg",
+        "type": "Dungeons",
+        "content": "The Strayborough Deadwalk",
+        "first_letter": "J",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Jack-in-the-Pot"
+    },
+    {
+        "name": "Julia quo Soranus",
+        "image": "boss_images\\Julia quo Soranus.jpg",
+        "type": "Dungeons",
+        "content": "The Ghimlyt Dark",
+        "first_letter": "J",
+        "patch": "4.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Julia_quo_Soranus"
+    },
+    {
+        "name": "Kahderyor",
+        "image": "boss_images\\Kahderyor.jpg",
+        "type": "Dungeons",
+        "content": "Worqor Zormor",
+        "first_letter": "K",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Kahderyor"
+    },
+    {
+        "name": "Kaliya (Boss)",
+        "image": "boss_images\\Kaliya (Boss).jpg",
+        "type": "Raids",
+        "content": "The Final Coil of Bahamut - Turn 2",
+        "first_letter": "K",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Kaliya_(Boss)"
+    },
+    {
+        "name": "Kamaitachi (boss)",
+        "image": "boss_images\\Kamaitachi (boss).jpg",
+        "type": "Dungeons",
+        "content": "Hells' Lid",
+        "first_letter": "K",
+        "patch": "4.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Kamaitachi_(boss)"
+    },
+    {
+        "name": "Kapikulu",
+        "image": "boss_images\\Kapikulu.jpg",
+        "type": "Dungeons",
+        "content": "Alzadaal's Legacy",
+        "first_letter": "K",
+        "patch": "6.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Kapikulu"
+    },
+    {
+        "name": "Karlabos",
+        "image": "boss_images\\Karlabos.jpg",
+        "type": "Dungeons",
+        "content": "Sastasha (Hard)",
+        "first_letter": "K",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Karlabos"
+    },
+    {
+        "name": "Keeper of Halidom",
+        "image": "boss_images\\Keeper of Halidom.jpg",
+        "type": "Dungeons",
+        "content": "The Wanderer's Palace",
+        "first_letter": "K",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Keeper_of_Halidom"
+    },
+    {
+        "name": "Kefka",
+        "image": "boss_images\\Kefka.jpg",
+        "type": "Normal Raids",
+        "content": "Sigmascape V4.0",
+        "first_letter": "K",
+        "patch": "4.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Kefka"
+    },
+    {
+        "name": "Kelpie",
+        "image": "boss_images\\Kelpie.jpg",
+        "type": "Dungeons",
+        "content": "The Drowned City of Skalla",
+        "first_letter": "K",
+        "patch": "4.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Kelpie"
+    },
+    {
+        "name": "Ketuduke",
+        "image": "boss_images\\Ketuduke.jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "Aloalo Island",
+        "first_letter": "K",
+        "patch": "6.51",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ketuduke"
+    },
+    {
+        "name": "King Behemoth",
+        "image": "boss_images\\King Behemoth.jpg",
+        "type": "Alliance Raids",
+        "content": "The Labyrinth of the Ancients",
+        "first_letter": "K",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/King_Behemoth"
+    },
+    {
+        "name": "King Thordan",
+        "image": "boss_images\\King Thordan.jpg",
+        "type": "Trials",
+        "content": "The Singularity Reactor",
+        "first_letter": "K",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/King_Thordan"
+    },
+    {
+        "name": "Knave of Hearts",
+        "image": "boss_images\\Knave of Hearts.jpg",
+        "type": "Alliance Raids",
+        "content": "The Tower at Paradigm's Breach",
+        "first_letter": "K",
+        "patch": "5.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Knave_of_Hearts"
+    },
+    {
+        "name": "Kokytos",
+        "image": "boss_images\\Kokytos.jpg",
+        "type": "Normal Raids",
+        "content": "Anabaseios: The Ninth Circle",
+        "first_letter": "K",
+        "patch": "6.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Kokytos"
+    },
+    {
+        "name": "Koshchei",
+        "image": "boss_images\\Koshchei.jpg",
+        "type": "Dungeons",
+        "content": "The Stone Vigil",
+        "first_letter": "K",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Koshchei"
+    },
+    {
+        "name": "Kottos",
+        "image": "boss_images\\Kottos.jpg",
+        "type": "Dungeons",
+        "content": "Copperbell Mines",
+        "first_letter": "K",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Kottos"
+    },
+    {
+        "name": "Kraken",
+        "image": "boss_images\\Kraken.jpg",
+        "type": "Dungeons",
+        "content": "Hullbreaker Isle",
+        "first_letter": "K",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Kraken"
+    },
+    {
+        "name": "Kuribu",
+        "image": "boss_images\\Kuribu.jpg",
+        "type": "Dungeons",
+        "content": "The Lost City of Amdapor (Hard)",
+        "first_letter": "K",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Kuribu"
+    },
+    {
+        "name": "Kyklops",
+        "image": "boss_images\\Kyklops.jpg",
+        "type": "Dungeons",
+        "content": "Anamnesis Anyder",
+        "first_letter": "K",
+        "patch": "5.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Kyklops"
+    },
+    {
+        "name": "Ladon Lord",
+        "image": "boss_images\\Ladon Lord.jpg",
+        "type": "Dungeons",
+        "content": "Ktisis Hyperboreia",
+        "first_letter": "L",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ladon_Lord"
+    },
+    {
+        "name": "Lady Amandine",
+        "image": "boss_images\\Lady Amandine.jpg",
+        "type": "Dungeons",
+        "content": "Haukke Manor",
+        "first_letter": "L",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lady_Amandine"
+    },
+    {
+        "name": "Lakhamu",
+        "image": "boss_images\\Lakhamu.jpg",
+        "type": "Dungeons",
+        "content": "Saint Mocianne's Arboretum (Hard)",
+        "first_letter": "L",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lakhamu"
+    },
+    {
+        "name": "Lakshmi",
+        "image": "boss_images\\Lakshmi.jpg",
+        "type": "Trials",
+        "content": "Emanation",
+        "first_letter": "L",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lakshmi"
+    },
+    {
+        "name": "Lala",
+        "image": "boss_images\\Lala.jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "Aloalo Island",
+        "first_letter": "L",
+        "patch": "6.51",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lala"
+    },
+    {
+        "name": "Lamebrix Strikebocks",
+        "image": "boss_images\\Lamebrix Strikebocks.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Breath of the Creator",
+        "first_letter": "L",
+        "patch": "3.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lamebrix_Strikebocks"
+    },
+    {
+        "name": "Lava Scorpion",
+        "image": "boss_images\\Lava Scorpion.jpg",
+        "type": "Dungeons",
+        "content": "Sohm Al (Hard)",
+        "first_letter": "L",
+        "patch": "3.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lava_Scorpion"
+    },
+    {
+        "name": "Leannan Sith",
+        "image": "boss_images\\Leannan Sith.jpg",
+        "type": "Dungeons",
+        "content": "The Grand Cosmos",
+        "first_letter": "L",
+        "patch": "5.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Leannan_Sith"
+    },
+    {
+        "name": "Leviathan",
+        "image": "boss_images\\Leviathan.jpg",
+        "type": "Trials",
+        "content": "The Whorleater (Hard)",
+        "first_letter": "L",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Leviathan"
+    },
+    {
+        "name": "Leviathan (Eden)",
+        "image": "boss_images\\Leviathan (Eden).jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Gate: Inundation",
+        "first_letter": "L",
+        "patch": "5.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Leviathan_(Eden)"
+    },
+    {
+        "name": "Liavinne (Boss)",
+        "image": "boss_images\\Liavinne (Boss).jpg",
+        "type": "Dungeons",
+        "content": "The Tam-Tara Deepcroft (Hard)",
+        "first_letter": "L",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Liavinne_(Boss)"
+    },
+    {
+        "name": "Lion of Aglaia",
+        "image": "boss_images\\Lion of Aglaia.jpg",
+        "type": "Alliance Raids",
+        "content": "Aglaia",
+        "first_letter": "L",
+        "patch": "6.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lion_of_Aglaia"
+    },
+    {
+        "name": "Lioness of Aglaia",
+        "image": "boss_images\\Lioness of Aglaia.jpg",
+        "type": "Alliance Raids",
+        "content": "Aglaia",
+        "first_letter": "L",
+        "patch": "6.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lioness_of_Aglaia"
+    },
+    {
+        "name": "Liquid Flame",
+        "image": "boss_images\\Liquid Flame.jpg",
+        "type": "Dungeons",
+        "content": "The Great Gubal Library (Hard)",
+        "first_letter": "L",
+        "patch": "3.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Liquid_Flame"
+    },
+    {
+        "name": "Livia sas Junius",
+        "image": "boss_images\\Livia sas Junius.jpg",
+        "type": "Dungeons",
+        "content": "Castrum Meridianum",
+        "first_letter": "L",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Livia_sas_Junius"
+    },
+    {
+        "name": "Livia the Undeterred",
+        "image": "boss_images\\Livia the Undeterred.jpg",
+        "type": "Dungeons",
+        "content": "The Aitiascope",
+        "first_letter": "L",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Livia_the_Undeterred"
+    },
+    {
+        "name": "Living Liquid",
+        "image": "boss_images\\Living Liquid.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Arm of the Father",
+        "first_letter": "L",
+        "patch": "3.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Living_Liquid"
+    },
+    {
+        "name": "Llymlaen (Boss)",
+        "image": "boss_images\\Llymlaen (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Thaleia",
+        "first_letter": "L",
+        "patch": "6.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Llymlaen_(Boss)"
+    },
+    {
+        "name": "Locksmith",
+        "image": "boss_images\\Locksmith.jpg",
+        "type": "Dungeons",
+        "content": "The Aurum Vale",
+        "first_letter": "L",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Locksmith"
+    },
+    {
+        "name": "Loquloqui",
+        "image": "boss_images\\Loquloqui.jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "Aloalo Island",
+        "first_letter": "L",
+        "patch": "6.51",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Loquloqui"
+    },
+    {
+        "name": "Lorelei (Boss)",
+        "image": "boss_images\\Lorelei (Boss).jpg",
+        "type": "Dungeons",
+        "content": "The Sirensong Sea",
+        "first_letter": "L",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lorelei_(Boss)"
+    },
+    {
+        "name": "Lozatl",
+        "image": "boss_images\\Lozatl.jpg",
+        "type": "Dungeons",
+        "content": "The Qitana Ravel",
+        "first_letter": "L",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lozatl"
+    },
+    {
+        "name": "Lugae",
+        "image": "boss_images\\Lugae.jpg",
+        "type": "Dungeons",
+        "content": "The Tower of Babil",
+        "first_letter": "L",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lugae"
+    },
+    {
+        "name": "Lugat",
+        "image": "boss_images\\Lugat.jpg",
+        "type": "Dungeons",
+        "content": "The Sirensong Sea",
+        "first_letter": "L",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lugat"
+    },
+    {
+        "name": "Lugus",
+        "image": "boss_images\\Lugus.jpg",
+        "type": "Dungeons",
+        "content": "The Grand Cosmos",
+        "first_letter": "L",
+        "patch": "5.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lugus"
+    },
+    {
+        "name": "Lunar Bahamut",
+        "image": "boss_images\\Lunar Bahamut.jpg",
+        "type": "Dungeons",
+        "content": "Paglth'an",
+        "first_letter": "L",
+        "patch": "5.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lunar_Bahamut"
+    },
+    {
+        "name": "Lyngbakr",
+        "image": "boss_images\\Lyngbakr.jpg",
+        "type": "Dungeons",
+        "content": "The Aetherfont",
+        "first_letter": "L",
+        "patch": "6.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lyngbakr"
+    },
+    {
+        "name": "Lyssa",
+        "image": "boss_images\\Lyssa.jpg",
+        "type": "Dungeons",
+        "content": "Ktisis Hyperboreia",
+        "first_letter": "L",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Lyssa"
+    },
+    {
+        "name": "Magitek Fortress",
+        "image": "boss_images\\Magitek Fortress.jpg",
+        "type": "Dungeons",
+        "content": "Paglth'an",
+        "first_letter": "M",
+        "patch": "5.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Magitek_Fortress"
+    },
+    {
+        "name": "Magitek Gunship",
+        "image": "boss_images\\Magitek Gunship.jpg",
+        "type": "Dungeons",
+        "content": "The Keeper of the Lake",
+        "first_letter": "M",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Magitek_Gunship"
+    },
+    {
+        "name": "Magitek Hexadrone",
+        "image": "boss_images\\Magitek Hexadrone.jpg",
+        "type": "Dungeons",
+        "content": "Doma Castle",
+        "first_letter": "M",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Magitek_Hexadrone"
+    },
+    {
+        "name": "Magitek Predator (Enemy)",
+        "image": "boss_images\\Magitek Predator (Enemy).jpg",
+        "type": "Dungeons",
+        "content": "Baelsar's Wall",
+        "first_letter": "M",
+        "patch": "3.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Magitek_Predator_(Enemy)"
+    },
+    {
+        "name": "Magitek Rearguard",
+        "image": "boss_images\\Magitek Rearguard.jpg",
+        "type": "Dungeons",
+        "content": "Doma Castle",
+        "first_letter": "M",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Magitek_Rearguard"
+    },
+    {
+        "name": "Magitek Scorpion",
+        "image": "boss_images\\Magitek Scorpion.jpg",
+        "type": "Dungeons",
+        "content": "Ala Mhigo",
+        "first_letter": "M",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Magitek_Scorpion"
+    },
+    {
+        "name": "Magitek Vangob G-III",
+        "image": "boss_images\\Magitek Vangob G-III.jpg",
+        "type": "Dungeons",
+        "content": "Brayflox's Longstop (Hard)",
+        "first_letter": "M",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Magitek_Vangob_G-III"
+    },
+    {
+        "name": "Magitek Vanguard F-1",
+        "image": "boss_images\\Magitek Vanguard F-1.jpg",
+        "type": "Dungeons",
+        "content": "Castrum Meridianum",
+        "first_letter": "M",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Magitek_Vanguard_F-1"
+    },
+    {
+        "name": "Magna Roader",
+        "image": "boss_images\\Magna Roader.jpg",
+        "type": "Dungeons",
+        "content": "Castrum Abania",
+        "first_letter": "M",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Magna_Roader"
+    },
+    {
+        "name": "Manor Claviger",
+        "image": "boss_images\\Manor Claviger.jpg",
+        "type": "Dungeons",
+        "content": "Haukke Manor",
+        "first_letter": "M",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Manor_Claviger"
+    },
+    {
+        "name": "Manor Jester",
+        "image": "boss_images\\Manor Jester.jpg",
+        "type": "Dungeons",
+        "content": "Haukke Manor",
+        "first_letter": "M",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Manor_Jester"
+    },
+    {
+        "name": "Manor Steward",
+        "image": "boss_images\\Manor Steward.jpg",
+        "type": "Dungeons",
+        "content": "Haukke Manor",
+        "first_letter": "M",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Manor_Steward"
+    },
+    {
+        "name": "Manxome Molaa Ja Ja",
+        "image": "boss_images\\Manxome Molaa Ja Ja.jpg",
+        "type": "Dungeons",
+        "content": "The Wanderer's Palace (Hard)",
+        "first_letter": "M",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Manxome_Molaa_Ja_Ja"
+    },
+    {
+        "name": "Mark II Magitek Colossus",
+        "image": "boss_images\\Mark II Magitek Colossus.jpg",
+        "type": "Dungeons",
+        "content": "The Praetorium",
+        "first_letter": "M",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Mark_II_Magitek_Colossus"
+    },
+    {
+        "name": "Mark III-B Magitek Colossus",
+        "image": "boss_images\\Mark III-B Magitek Colossus.jpg",
+        "type": "Dungeons",
+        "content": "The Ghimlyt Dark",
+        "first_letter": "M",
+        "patch": "4.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Mark_III-B_Magitek_Colossus"
+    },
+    {
+        "name": "Marquis Morbol",
+        "image": "boss_images\\Marquis Morbol.jpg",
+        "type": "Dungeons",
+        "content": "Akadaemia Anyder",
+        "first_letter": "M",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Marquis_Morbol"
+    },
+    {
+        "name": "Mateus, the Corrupt",
+        "image": "boss_images\\Mateus, the Corrupt.jpg",
+        "type": "Alliance Raids",
+        "content": "The Royal City of Rabanastre",
+        "first_letter": "M",
+        "patch": "4.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Mateus,_the_Corrupt"
+    },
+    {
+        "name": "Maulskull",
+        "image": "boss_images\\Maulskull.jpg",
+        "type": "Dungeons",
+        "content": "The Skydeep Cenote",
+        "first_letter": "M",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Maulskull"
+    },
+    {
+        "name": "Melusine",
+        "image": "boss_images\\Melusine.jpg",
+        "type": "Raids",
+        "content": "The Second Coil of Bahamut - Turn 2",
+        "first_letter": "M",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Melusine"
+    },
+    {
+        "name": "Menphina (Boss)",
+        "image": "boss_images\\Menphina (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Euphrosyne",
+        "first_letter": "M",
+        "patch": "6.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Menphina_(Boss)"
+    },
+    {
+        "name": "Midgardsormr (Alphascape)",
+        "image": "boss_images\\Midgardsormr (Alphascape).jpg",
+        "type": "Normal Raids",
+        "content": "Alphascape V2.0",
+        "first_letter": "M",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Midgardsormr_(Alphascape)"
+    },
+    {
+        "name": "Minduruva",
+        "image": "boss_images\\Minduruva.jpg",
+        "type": "Dungeons",
+        "content": "The Tower of Zot",
+        "first_letter": "M",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Minduruva"
+    },
+    {
+        "name": "Minotaur",
+        "image": "boss_images\\Minotaur.jpg",
+        "type": "Dungeons",
+        "content": "The Fractal Continuum",
+        "first_letter": "M",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Minotaur"
+    },
+    {
+        "name": "Miser's Mistress",
+        "image": "boss_images\\Miser's Mistress.jpg",
+        "type": "Dungeons",
+        "content": "The Aurum Vale",
+        "first_letter": "M",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Miser%27s_Mistress"
+    },
+    {
+        "name": "Mist Dragon",
+        "image": "boss_images\\Mist Dragon.jpg",
+        "type": "Dungeons",
+        "content": "The Burn",
+        "first_letter": "M",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Mist_Dragon"
+    },
+    {
+        "name": "Mistbeard",
+        "image": "boss_images\\Mistbeard.jpg",
+        "type": "Dungeons",
+        "content": "Hullbreaker Isle (Hard)",
+        "first_letter": "M",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Mistbeard"
+    },
+    {
+        "name": "Mithridates",
+        "image": "boss_images\\Mithridates.jpg",
+        "type": "Dungeons",
+        "content": "The Twinning",
+        "first_letter": "M",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Mithridates"
+    },
+    {
+        "name": "Moko the Restless",
+        "image": "boss_images\\Moko the Restless.jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "Mount Rokkon",
+        "first_letter": "M",
+        "patch": "6.45",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Moko_the_Restless"
+    },
+    {
+        "name": "Mother Porxie",
+        "image": "boss_images\\Mother Porxie.jpg",
+        "type": "Dungeons",
+        "content": "Matoya's Relict",
+        "first_letter": "M",
+        "patch": "5.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Mother_Porxie"
+    },
+    {
+        "name": "Motherbit",
+        "image": "boss_images\\Motherbit.jpg",
+        "type": "Dungeons",
+        "content": "The Fractal Continuum (Hard)",
+        "first_letter": "M",
+        "patch": "4.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Motherbit"
+    },
+    {
+        "name": "Mudman (Enemy)",
+        "image": "boss_images\\Mudman (Enemy).jpg",
+        "type": "Dungeons",
+        "content": "Matoya's Relict",
+        "first_letter": "M",
+        "patch": "5.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Mudman_(Enemy)"
+    },
+    {
+        "name": "Mumuepo the Beholden",
+        "image": "boss_images\\Mumuepo the Beholden.jpg",
+        "type": "Dungeons",
+        "content": "Halatali (Hard)",
+        "first_letter": "M",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Mumuepo_the_Beholden"
+    },
+    {
+        "name": "Mustadio",
+        "image": "boss_images\\Mustadio.jpg",
+        "type": "Alliance Raids",
+        "content": "The Orbonne Monastery",
+        "first_letter": "M",
+        "patch": "4.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Mustadio"
+    },
+    {
+        "name": "Myath",
+        "image": "boss_images\\Myath.jpg",
+        "type": "Dungeons",
+        "content": "Sohm Al",
+        "first_letter": "M",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Myath"
+    },
+    {
+        "name": "Myrmidon Princess",
+        "image": "boss_images\\Myrmidon Princess.jpg",
+        "type": "Dungeons",
+        "content": "Cutter's Cry",
+        "first_letter": "M",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Myrmidon_Princess"
+    },
+    {
+        "name": "Nabriales",
+        "image": "boss_images\\Nabriales.jpg",
+        "type": "Trials",
+        "content": "The Chrysalis",
+        "first_letter": "N",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Nabriales"
+    },
+    {
+        "name": "Nael deus Darnus",
+        "image": "boss_images\\Nael deus Darnus.jpg",
+        "type": "Raids",
+        "content": "The Second Coil of Bahamut - Turn 4",
+        "first_letter": "N",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Nael_deus_Darnus"
+    },
+    {
+        "name": "Nald'thal (Boss)",
+        "image": "boss_images\\Nald'thal (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Aglaia",
+        "first_letter": "N",
+        "patch": "6.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Nald%27thal_(Boss)"
+    },
+    {
+        "name": "Narasimha",
+        "image": "boss_images\\Narasimha.jpg",
+        "type": "Dungeons",
+        "content": "Halatali (Hard)",
+        "first_letter": "N",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Narasimha"
+    },
+    {
+        "name": "Neo Exdeath",
+        "image": "boss_images\\Neo Exdeath.jpg",
+        "type": "Savage Raids",
+        "content": "Deltascape V4.0 (Savage)",
+        "first_letter": "N",
+        "patch": "4.05",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Neo_Exdeath"
+    },
+    {
+        "name": "Nero tol Scaeva (boss)",
+        "image": "boss_images\\Nero tol Scaeva (boss).jpg",
+        "type": "Dungeons",
+        "content": "The Praetorium",
+        "first_letter": "N",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Nero_tol_Scaeva_(boss)"
+    },
+    {
+        "name": "Nidhogg",
+        "image": "boss_images\\Nidhogg.jpg",
+        "type": "Dungeons",
+        "content": "The Aery",
+        "first_letter": "N",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Nidhogg"
+    },
+    {
+        "name": "Nixie",
+        "image": "boss_images\\Nixie.jpg",
+        "type": "Dungeons",
+        "content": "Matoya's Relict",
+        "first_letter": "N",
+        "patch": "5.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Nixie"
+    },
+    {
+        "name": "Nophica (Boss)",
+        "image": "boss_images\\Nophica (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Euphrosyne",
+        "first_letter": "N",
+        "patch": "6.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Nophica_(Boss)"
+    },
+    {
+        "name": "Nullchu",
+        "image": "boss_images\\Nullchu.jpg",
+        "type": "Dungeons",
+        "content": "Saint Mocianne's Arboretum (Hard)",
+        "first_letter": "N",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Nullchu"
+    },
+    {
+        "name": "Number XXIV",
+        "image": "boss_images\\Number XXIV.jpg",
+        "type": "Dungeons",
+        "content": "Castrum Abania",
+        "first_letter": "N",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Number_XXIV"
+    },
+    {
+        "name": "Nunyenunc",
+        "image": "boss_images\\Nunyenunc.jpg",
+        "type": "Dungeons",
+        "content": "Neverreap",
+        "first_letter": "N",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Nunyenunc"
+    },
+    {
+        "name": "Nuzal Hueloc",
+        "image": "boss_images\\Nuzal Hueloc.jpg",
+        "type": "Dungeons",
+        "content": "Xelphatol",
+        "first_letter": "N",
+        "patch": "3.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Nuzal_Hueloc"
+    },
+    {
+        "name": "Nymeia (Boss)",
+        "image": "boss_images\\Nymeia (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Euphrosyne",
+        "first_letter": "N",
+        "patch": "6.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Nymeia_(Boss)"
+    },
+    {
+        "name": "Octomammoth (boss)",
+        "image": "boss_images\\Octomammoth (boss).jpg",
+        "type": "Dungeons",
+        "content": "The Aetherfont",
+        "first_letter": "O",
+        "patch": "6.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Octomammoth_(boss)"
+    },
+    {
+        "name": "Odin",
+        "image": "boss_images\\Odin.jpg",
+        "type": "Trials",
+        "content": "Urth's Fount",
+        "first_letter": "O",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Odin"
+    },
+    {
+        "name": "Omega (boss)",
+        "image": "boss_images\\Omega (boss).jpg",
+        "type": "Normal Raids",
+        "content": "Alphascape V3.0",
+        "first_letter": "O",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Omega_(boss)"
+    },
+    {
+        "name": "Omega-F",
+        "image": "boss_images\\Omega-F.jpg",
+        "type": "Normal Raids",
+        "content": "Alphascape V4.0",
+        "first_letter": "O",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Omega-F"
+    },
+    {
+        "name": "Omega-M",
+        "image": "boss_images\\Omega-M.jpg",
+        "type": "Normal Raids",
+        "content": "Alphascape V4.0",
+        "first_letter": "O",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Omega-M"
+    },
+    {
+        "name": "Onslaughter",
+        "image": "boss_images\\Onslaughter.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Burden of the Son",
+        "first_letter": "O",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Onslaughter"
+    },
+    {
+        "name": "Opinicus",
+        "image": "boss_images\\Opinicus.jpg",
+        "type": "Dungeons",
+        "content": "The Dusk Vigil",
+        "first_letter": "O",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Opinicus"
+    },
+    {
+        "name": "Oppressor",
+        "image": "boss_images\\Oppressor.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Fist of the Father",
+        "first_letter": "O",
+        "patch": "3.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Oppressor"
+    },
+    {
+        "name": "Oracle of Darkness",
+        "image": "boss_images\\Oracle of Darkness.jpg",
+        "type": "Savage Raids",
+        "content": "Eden's Promise: Eternity (Savage)",
+        "first_letter": "O",
+        "patch": "5.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Oracle_of_Darkness"
+    },
+    {
+        "name": "Oschon (Boss)",
+        "image": "boss_images\\Oschon (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Thaleia",
+        "first_letter": "O",
+        "patch": "6.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Oschon_(Boss)"
+    },
+    {
+        "name": "Otake-maru",
+        "image": "boss_images\\Otake-maru.jpg",
+        "type": "Dungeons",
+        "content": "Hells' Lid",
+        "first_letter": "O",
+        "patch": "4.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Otake-maru"
+    },
+    {
+        "name": "Otengu",
+        "image": "boss_images\\Otengu.jpg",
+        "type": "Dungeons",
+        "content": "The Swallow's Compass",
+        "first_letter": "O",
+        "patch": "4.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Otengu"
+    },
+    {
+        "name": "Ouranos",
+        "image": "boss_images\\Ouranos.jpg",
+        "type": "Dungeons",
+        "content": "Copperbell Mines (Hard)",
+        "first_letter": "O",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ouranos"
+    },
+    {
+        "name": "Ozma",
+        "image": "boss_images\\Ozma.jpg",
+        "type": "Alliance Raids",
+        "content": "The Weeping City of Mhach",
+        "first_letter": "O",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ozma"
+    },
+    {
+        "name": "Pallas Athena",
+        "image": "boss_images\\Pallas Athena.jpg",
+        "type": "Savage Raids",
+        "content": "Anabaseios: The Twelfth Circle (Savage)",
+        "first_letter": "P",
+        "patch": "6.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Pallas_Athena"
+    },
+    {
+        "name": "Pand\u00e6monium (boss)",
+        "image": "boss_images\\Pand\u00e6monium (boss).jpg",
+        "type": "Normal Raids",
+        "content": "Anabaseios: The Tenth Circle",
+        "first_letter": "P",
+        "patch": "6.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Pand%C3%A6monium_(boss)"
+    },
+    {
+        "name": "Peacekeeper",
+        "image": "boss_images\\Peacekeeper.jpg",
+        "type": "Dungeons",
+        "content": "The Dead Ends",
+        "first_letter": "P",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Peacekeeper"
+    },
+    {
+        "name": "Perfect Alexander",
+        "image": "boss_images\\Perfect Alexander.jpg",
+        "type": "Raid Finder",
+        "content": "The Epic of Alexander (Ultimate)",
+        "first_letter": "P",
+        "patch": "5.11",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Perfect_Alexander"
+    },
+    {
+        "name": "Phantom Ray",
+        "image": "boss_images\\Phantom Ray.jpg",
+        "type": "Dungeons",
+        "content": "The Fractal Continuum",
+        "first_letter": "P",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Phantom_Ray"
+    },
+    {
+        "name": "Phantom Train",
+        "image": "boss_images\\Phantom Train.jpg",
+        "type": "Normal Raids",
+        "content": "Sigmascape V1.0",
+        "first_letter": "P",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Phantom_Train"
+    },
+    {
+        "name": "Philia",
+        "image": "boss_images\\Philia.jpg",
+        "type": "Dungeons",
+        "content": "Holminster Switch",
+        "first_letter": "P",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Philia"
+    },
+    {
+        "name": "Phlegethon",
+        "image": "boss_images\\Phlegethon.jpg",
+        "type": "Alliance Raids",
+        "content": "The Labyrinth of the Ancients",
+        "first_letter": "P",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Phlegethon"
+    },
+    {
+        "name": "Phoenix",
+        "image": "boss_images\\Phoenix.jpg",
+        "type": "Raids",
+        "content": "The Final Coil of Bahamut - Turn 3",
+        "first_letter": "P",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Phoenix"
+    },
+    {
+        "name": "Phoinix",
+        "image": "boss_images\\Phoinix.jpg",
+        "type": "Normal Raids",
+        "content": "Asphodelos: The Third Circle",
+        "first_letter": "P",
+        "patch": "6.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Phoinix"
+    },
+    {
+        "name": "Poqhiraj",
+        "image": "boss_images\\Poqhiraj.jpg",
+        "type": "Dungeons",
+        "content": "Sohr Khai",
+        "first_letter": "P",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Poqhiraj"
+    },
+    {
+        "name": "Prime Punutiy",
+        "image": "boss_images\\Prime Punutiy.jpg",
+        "type": "Dungeons",
+        "content": "Ihuykatumu",
+        "first_letter": "P",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Prime_Punutiy"
+    },
+    {
+        "name": "Progenitor",
+        "image": "boss_images\\Progenitor.jpg",
+        "type": "Dungeons",
+        "content": "Pharos Sirius (Hard)",
+        "first_letter": "P",
+        "patch": "3.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Progenitor"
+    },
+    {
+        "name": "Progenitrix",
+        "image": "boss_images\\Progenitrix.jpg",
+        "type": "Dungeons",
+        "content": "Pharos Sirius (Hard)",
+        "first_letter": "P",
+        "patch": "3.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Progenitrix"
+    },
+    {
+        "name": "Prometheus",
+        "image": "boss_images\\Prometheus.jpg",
+        "type": "Dungeons",
+        "content": "The Ghimlyt Dark",
+        "first_letter": "P",
+        "patch": "4.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Prometheus"
+    },
+    {
+        "name": "Protector (boss)",
+        "image": "boss_images\\Protector (boss).jpg",
+        "type": "Dungeons",
+        "content": "Vanguard",
+        "first_letter": "P",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Protector_(boss)"
+    },
+    {
+        "name": "Proto Ultima",
+        "image": "boss_images\\Proto Ultima.jpg",
+        "type": "Alliance Raids",
+        "content": "Dun Scaith",
+        "first_letter": "P",
+        "patch": "3.55a",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Proto_Ultima"
+    },
+    {
+        "name": "Proto-Carbuncle",
+        "image": "boss_images\\Proto-Carbuncle.jpg",
+        "type": "Normal Raids",
+        "content": "Abyssos: The Fifth Circle",
+        "first_letter": "P",
+        "patch": "6.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Proto-Carbuncle"
+    },
+    {
+        "name": "Proto-Omega",
+        "image": "boss_images\\Proto-Omega.jpg",
+        "type": "Dungeons",
+        "content": "The Stigma Dreamscape",
+        "first_letter": "P",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Proto-Omega"
+    },
+    {
+        "name": "Psycheflayer",
+        "image": "boss_images\\Psycheflayer.jpg",
+        "type": "Dungeons",
+        "content": "Amdapor Keep",
+        "first_letter": "P",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Psycheflayer"
+    },
+    {
+        "name": "Pyracmon",
+        "image": "boss_images\\Pyracmon.jpg",
+        "type": "Dungeons",
+        "content": "Halatali (Hard)",
+        "first_letter": "P",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Pyracmon"
+    },
+    {
+        "name": "Qitian Dasheng (boss)",
+        "image": "boss_images\\Qitian Dasheng (boss).jpg",
+        "type": "Dungeons",
+        "content": "The Swallow's Compass",
+        "first_letter": "Q",
+        "patch": "4.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Qitian_Dasheng_(boss)"
+    },
+    {
+        "name": "Quaqua (boss)",
+        "image": "boss_images\\Quaqua (boss).jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "Aloalo Island",
+        "first_letter": "Q",
+        "patch": "6.51",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Quaqua_(boss)"
+    },
+    {
+        "name": "Queen Eternal",
+        "image": "boss_images\\Queen Eternal.jpg",
+        "type": "Trials",
+        "content": "The Interphos",
+        "first_letter": "Q",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Queen_Eternal"
+    },
+    {
+        "name": "Queen Hawk",
+        "image": "boss_images\\Queen Hawk.jpg",
+        "type": "Dungeons",
+        "content": "Saint Mocianne's Arboretum",
+        "first_letter": "Q",
+        "patch": "3.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Queen_Hawk"
+    },
+    {
+        "name": "Quetzalcoatl",
+        "image": "boss_images\\Quetzalcoatl.jpg",
+        "type": "Dungeons",
+        "content": "Akadaemia Anyder",
+        "first_letter": "Q",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Quetzalcoatl"
+    },
+    {
+        "name": "Quickthinx Allthoughts",
+        "image": "boss_images\\Quickthinx Allthoughts.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Arm of the Son",
+        "first_letter": "Q",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Quickthinx_Allthoughts"
+    },
+    {
+        "name": "Ra-la",
+        "image": "boss_images\\Ra-la.jpg",
+        "type": "Dungeons",
+        "content": "The Dead Ends",
+        "first_letter": "R",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ra-la"
+    },
+    {
+        "name": "Rafflesia (Enemy)",
+        "image": "boss_images\\Rafflesia (Enemy).jpg",
+        "type": "Raids",
+        "content": "The Second Coil of Bahamut - Turn 1",
+        "first_letter": "R",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Rafflesia_(Enemy)"
+    },
+    {
+        "name": "Raktapaksa",
+        "image": "boss_images\\Raktapaksa.jpg",
+        "type": "Savage Raids",
+        "content": "Eden's Verse: Furor (Savage)",
+        "first_letter": "R",
+        "patch": "5.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Raktapaksa"
+    },
+    {
+        "name": "Ramuh",
+        "image": "boss_images\\Ramuh.jpg",
+        "type": "Trials",
+        "content": "The Striking Tree (Hard)",
+        "first_letter": "R",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ramuh"
+    },
+    {
+        "name": "Ramuh (Eden)",
+        "image": "boss_images\\Ramuh (Eden).jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Verse: Fulmination",
+        "first_letter": "R",
+        "patch": "5.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ramuh_(Eden)"
+    },
+    {
+        "name": "Rangda",
+        "image": "boss_images\\Rangda.jpg",
+        "type": "Dungeons",
+        "content": "The Aery",
+        "first_letter": "R",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Rangda"
+    },
+    {
+        "name": "Raskovnik",
+        "image": "boss_images\\Raskovnik.jpg",
+        "type": "Dungeons",
+        "content": "Sohm Al",
+        "first_letter": "R",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Raskovnik"
+    },
+    {
+        "name": "Ratfinx Twinkledinks",
+        "image": "boss_images\\Ratfinx Twinkledinks.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Fist of the Son",
+        "first_letter": "R",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ratfinx_Twinkledinks"
+    },
+    {
+        "name": "Rathalos",
+        "image": "boss_images\\Rathalos.jpg",
+        "type": "Trials",
+        "content": "The Great Hunt",
+        "first_letter": "R",
+        "patch": "4.36",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Rathalos"
+    },
+    {
+        "name": "Rathalos (High Rank)",
+        "image": "boss_images\\Rathalos (High Rank).jpg",
+        "type": "High-end Trials",
+        "content": "The Great Hunt (Extreme)",
+        "first_letter": "R",
+        "patch": "4.36",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Rathalos_(High_Rank)"
+    },
+    {
+        "name": "Ravana",
+        "image": "boss_images\\Ravana.jpg",
+        "type": "Trials",
+        "content": "Thok ast Thok (Hard)",
+        "first_letter": "R",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ravana"
+    },
+    {
+        "name": "Red Girl",
+        "image": "boss_images\\Red Girl.jpg",
+        "type": "Alliance Raids",
+        "content": "The Tower at Paradigm's Breach",
+        "first_letter": "R",
+        "patch": "5.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Red_Girl"
+    },
+    {
+        "name": "Refurbisher 0",
+        "image": "boss_images\\Refurbisher 0.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Eyes of the Creator",
+        "first_letter": "R",
+        "patch": "3.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Refurbisher_0"
+    },
+    {
+        "name": "Regula van Hydrus",
+        "image": "boss_images\\Regula van Hydrus.jpg",
+        "type": "Dungeons",
+        "content": "The Aetherochemical Research Facility",
+        "first_letter": "R",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Regula_van_Hydrus"
+    },
+    {
+        "name": "Rhalgr (Boss)",
+        "image": "boss_images\\Rhalgr (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Aglaia",
+        "first_letter": "R",
+        "patch": "6.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Rhalgr_(Boss)"
+    },
+    {
+        "name": "Rhalgr's Emissary",
+        "image": "boss_images\\Rhalgr's Emissary.jpg",
+        "type": "Alliance Raids",
+        "content": "Aglaia",
+        "first_letter": "R",
+        "patch": "6.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Rhalgr%27s_Emissary"
+    },
+    {
+        "name": "Rhitahtyn the Unshakable",
+        "image": "boss_images\\Rhitahtyn the Unshakable.jpg",
+        "type": "Dungeons",
+        "content": "The Aitiascope",
+        "first_letter": "R",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Rhitahtyn_the_Unshakable"
+    },
+    {
+        "name": "Rofocale",
+        "image": "boss_images\\Rofocale.jpg",
+        "type": "Alliance Raids",
+        "content": "The Royal City of Rabanastre",
+        "first_letter": "R",
+        "patch": "4.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Rofocale"
+    },
+    {
+        "name": "Rose Garden",
+        "image": "boss_images\\Rose Garden.jpg",
+        "type": "Dungeons",
+        "content": "Saint Mocianne's Arboretum",
+        "first_letter": "R",
+        "patch": "3.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Rose_Garden"
+    },
+    {
+        "name": "Rubicante",
+        "image": "boss_images\\Rubicante.jpg",
+        "type": "Trials",
+        "content": "Mount Ordeals",
+        "first_letter": "R",
+        "patch": "6.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Rubicante"
+    },
+    {
+        "name": "Ruby Princess",
+        "image": "boss_images\\Ruby Princess.jpg",
+        "type": "Dungeons",
+        "content": "Shisui of the Violet Tides",
+        "first_letter": "R",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ruby_Princess"
+    },
+    {
+        "name": "Rukshs Dheem",
+        "image": "boss_images\\Rukshs Dheem.jpg",
+        "type": "Dungeons",
+        "content": "Anamnesis Anyder",
+        "first_letter": "R",
+        "patch": "5.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Rukshs_Dheem"
+    },
+    {
+        "name": "Ryoqor Terteh",
+        "image": "boss_images\\Ryoqor Terteh.jpg",
+        "type": "Dungeons",
+        "content": "Worqor Zormor",
+        "first_letter": "R",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ryoqor_Terteh"
+    },
+    {
+        "name": "Sabotender Emperatriz",
+        "image": "boss_images\\Sabotender Emperatriz.jpg",
+        "type": "Dungeons",
+        "content": "The Sunken Temple of Qarn (Hard)",
+        "first_letter": "S",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Sabotender_Emperatriz"
+    },
+    {
+        "name": "Sanduruva",
+        "image": "boss_images\\Sanduruva.jpg",
+        "type": "Dungeons",
+        "content": "The Tower of Zot",
+        "first_letter": "S",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Sanduruva"
+    },
+    {
+        "name": "Sanguine Sirens Gunner",
+        "image": "boss_images\\Sanguine Sirens Gunner.jpg",
+        "type": "Dungeons",
+        "content": "Hullbreaker Isle (Hard)",
+        "first_letter": "S",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Sanguine_Sirens_Gunner"
+    },
+    {
+        "name": "Sanguine Sirens Lodeswoman",
+        "image": "boss_images\\Sanguine Sirens Lodeswoman.jpg",
+        "type": "Dungeons",
+        "content": "Hullbreaker Isle (Hard)",
+        "first_letter": "S",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Sanguine_Sirens_Lodeswoman"
+    },
+    {
+        "name": "Sanguine Sirens Targirl",
+        "image": "boss_images\\Sanguine Sirens Targirl.jpg",
+        "type": "Dungeons",
+        "content": "Hullbreaker Isle (Hard)",
+        "first_letter": "S",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Sanguine_Sirens_Targirl"
+    },
+    {
+        "name": "Sasquatch (Boss)",
+        "image": "boss_images\\Sasquatch (Boss).jpg",
+        "type": "Dungeons",
+        "content": "Hullbreaker Isle",
+        "first_letter": "S",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Sasquatch_(Boss)"
+    },
+    {
+        "name": "Scarmiglione",
+        "image": "boss_images\\Scarmiglione.jpg",
+        "type": "Dungeons",
+        "content": "The Fell Court of Troia",
+        "first_letter": "S",
+        "patch": "6.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Scarmiglione"
+    },
+    {
+        "name": "Scathach",
+        "image": "boss_images\\Scathach.jpg",
+        "type": "Alliance Raids",
+        "content": "Dun Scaith",
+        "first_letter": "S",
+        "patch": "3.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Scathach"
+    },
+    {
+        "name": "Scylla",
+        "image": "boss_images\\Scylla.jpg",
+        "type": "Alliance Raids",
+        "content": "Syrcus Tower",
+        "first_letter": "S",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Scylla"
+    },
+    {
+        "name": "Seeker of Solitude",
+        "image": "boss_images\\Seeker of Solitude.jpg",
+        "type": "Dungeons",
+        "content": "The Grand Cosmos",
+        "first_letter": "S",
+        "patch": "5.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Seeker_of_Solitude"
+    },
+    {
+        "name": "Seiryu",
+        "image": "boss_images\\Seiryu.jpg",
+        "type": "Trials",
+        "content": "The Wreath of Snakes",
+        "first_letter": "S",
+        "patch": "4.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Seiryu"
+    },
+    {
+        "name": "Sephirot",
+        "image": "boss_images\\Sephirot.jpg",
+        "type": "Trials",
+        "content": "Containment Bay S1T7",
+        "first_letter": "S",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Sephirot"
+    },
+    {
+        "name": "Ser Adelphel",
+        "image": "boss_images\\Ser Adelphel.jpg",
+        "type": "Dungeons",
+        "content": "The Vault",
+        "first_letter": "S",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ser_Adelphel"
+    },
+    {
+        "name": "Ser Charibert",
+        "image": "boss_images\\Ser Charibert.jpg",
+        "type": "Dungeons",
+        "content": "The Vault",
+        "first_letter": "S",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ser_Charibert"
+    },
+    {
+        "name": "Ser Grinnaux",
+        "image": "boss_images\\Ser Grinnaux.jpg",
+        "type": "Dungeons",
+        "content": "The Vault",
+        "first_letter": "S",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ser_Grinnaux"
+    },
+    {
+        "name": "Ser Yuhelmeric",
+        "image": "boss_images\\Ser Yuhelmeric.jpg",
+        "type": "Dungeons",
+        "content": "The Dusk Vigil",
+        "first_letter": "S",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ser_Yuhelmeric"
+    },
+    {
+        "name": "Serial-jointed Command Model",
+        "image": "boss_images\\Serial-jointed Command Model.jpg",
+        "type": "Alliance Raids",
+        "content": "The Copied Factory",
+        "first_letter": "S",
+        "patch": "5.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Serial-jointed_Command_Model"
+    },
+    {
+        "name": "Shadowcaster Zeless Gah",
+        "image": "boss_images\\Shadowcaster Zeless Gah.jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "The Sil'dihn Subterrane",
+        "first_letter": "S",
+        "patch": "6.25",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Shadowcaster_Zeless_Gah"
+    },
+    {
+        "name": "Shadowkeeper",
+        "image": "boss_images\\Shadowkeeper.jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Promise: Litany",
+        "first_letter": "S",
+        "patch": "5.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Shadowkeeper"
+    },
+    {
+        "name": "Shinryu",
+        "image": "boss_images\\Shinryu.jpg",
+        "type": "Trials",
+        "content": "The Royal Menagerie",
+        "first_letter": "S",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Shinryu"
+    },
+    {
+        "name": "Shishio (boss)",
+        "image": "boss_images\\Shishio (boss).jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "Mount Rokkon",
+        "first_letter": "S",
+        "patch": "6.45",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Shishio_(boss)"
+    },
+    {
+        "name": "Shisui Yohi",
+        "image": "boss_images\\Shisui Yohi.jpg",
+        "type": "Dungeons",
+        "content": "Shisui of the Violet Tides",
+        "first_letter": "S",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Shisui_Yohi"
+    },
+    {
+        "name": "Shiva",
+        "image": "boss_images\\Shiva.jpg",
+        "type": "Trials",
+        "content": "The Akh Afah Amphitheatre (Hard)",
+        "first_letter": "S",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Shiva"
+    },
+    {
+        "name": "Shiva (Eden)",
+        "image": "boss_images\\Shiva (Eden).jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Verse: Refulgence",
+        "first_letter": "S",
+        "patch": "5.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Shiva_(Eden)"
+    },
+    {
+        "name": "Silkie",
+        "image": "boss_images\\Silkie.jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "The Sil'dihn Subterrane",
+        "first_letter": "S",
+        "patch": "6.25",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Silkie"
+    },
+    {
+        "name": "Silvertongue Samidare",
+        "image": "boss_images\\Silvertongue Samidare.jpg",
+        "type": "Dungeons",
+        "content": "Bardam's Mettle",
+        "first_letter": "S",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Silvertongue_Samidare"
+    },
+    {
+        "name": "Siren",
+        "image": "boss_images\\Siren.jpg",
+        "type": "Dungeons",
+        "content": "Pharos Sirius",
+        "first_letter": "S",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Siren"
+    },
+    {
+        "name": "Sjoorm",
+        "image": "boss_images\\Sjoorm.jpg",
+        "type": "Dungeons",
+        "content": "Hullbreaker Isle",
+        "first_letter": "S",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Sjoorm"
+    },
+    {
+        "name": "Slithy Zolool Ja",
+        "image": "boss_images\\Slithy Zolool Ja.jpg",
+        "type": "Dungeons",
+        "content": "The Wanderer's Palace (Hard)",
+        "first_letter": "S",
+        "patch": "2.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Slithy_Zolool_Ja"
+    },
+    {
+        "name": "Sophia",
+        "image": "boss_images\\Sophia.jpg",
+        "type": "Trials",
+        "content": "Containment Bay P1T6",
+        "first_letter": "S",
+        "patch": "3.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Sophia"
+    },
+    {
+        "name": "Spare Body",
+        "image": "boss_images\\Spare Body.jpg",
+        "type": "Dungeons",
+        "content": "The Tam-Tara Deepcroft (Hard)",
+        "first_letter": "S",
+        "patch": "2.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Spare_Body"
+    },
+    {
+        "name": "Spectral Berserker",
+        "image": "boss_images\\Spectral Berserker.jpg",
+        "type": "Dungeons",
+        "content": "The Heroes' Gauntlet",
+        "first_letter": "S",
+        "patch": "5.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Spectral_Berserker"
+    },
+    {
+        "name": "Spectral Necromancer",
+        "image": "boss_images\\Spectral Necromancer.jpg",
+        "type": "Dungeons",
+        "content": "The Heroes' Gauntlet",
+        "first_letter": "S",
+        "patch": "5.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Spectral_Necromancer"
+    },
+    {
+        "name": "Spectral Thief",
+        "image": "boss_images\\Spectral Thief.jpg",
+        "type": "Dungeons",
+        "content": "The Heroes' Gauntlet",
+        "first_letter": "S",
+        "patch": "5.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Spectral_Thief"
+    },
+    {
+        "name": "Statice",
+        "image": "boss_images\\Statice.jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "Aloalo Island",
+        "first_letter": "S",
+        "patch": "6.51",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Statice"
+    },
+    {
+        "name": "Stigma-4 (Boss)",
+        "image": "boss_images\\Stigma-4 (Boss).jpg",
+        "type": "Dungeons",
+        "content": "The Stigma Dreamscape",
+        "first_letter": "S",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Stigma-4_(Boss)"
+    },
+    {
+        "name": "Storge",
+        "image": "boss_images\\Storge.jpg",
+        "type": "Dungeons",
+        "content": "Malikah's Well",
+        "first_letter": "S",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Storge"
+    },
+    {
+        "name": "Strix (Boss)",
+        "image": "boss_images\\Strix (Boss).jpg",
+        "type": "Dungeons",
+        "content": "The Great Gubal Library (Hard)",
+        "first_letter": "S",
+        "patch": "3.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Strix_(Boss)"
+    },
+    {
+        "name": "Subject Number XXIV",
+        "image": "boss_images\\Subject Number XXIV.jpg",
+        "type": "Dungeons",
+        "content": "Castrum Abania",
+        "first_letter": "S",
+        "patch": "6.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Subject_Number_XXIV"
+    },
+    {
+        "name": "Susano",
+        "image": "boss_images\\Susano.jpg",
+        "type": "Trials",
+        "content": "The Pool of Tribute",
+        "first_letter": "S",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Susano"
+    },
+    {
+        "name": "Suzaku",
+        "image": "boss_images\\Suzaku.jpg",
+        "type": "Trials",
+        "content": "Hells' Kier",
+        "first_letter": "S",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Suzaku"
+    },
+    {
+        "name": "Svarbhanu",
+        "image": "boss_images\\Svarbhanu.jpg",
+        "type": "Dungeons",
+        "content": "Vanaspati",
+        "first_letter": "S",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Svarbhanu"
+    },
+    {
+        "name": "Swindler",
+        "image": "boss_images\\Swindler.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Cuff of the Son",
+        "first_letter": "S",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Swindler"
+    },
+    {
+        "name": "Symond the Unsinkable",
+        "image": "boss_images\\Symond the Unsinkable.jpg",
+        "type": "Dungeons",
+        "content": "Pharos Sirius",
+        "first_letter": "S",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Symond_the_Unsinkable"
+    },
+    {
+        "name": "Tangata",
+        "image": "boss_images\\Tangata.jpg",
+        "type": "Dungeons",
+        "content": "Halatali",
+        "first_letter": "T",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Tangata"
+    },
+    {
+        "name": "Taulurd",
+        "image": "boss_images\\Taulurd.jpg",
+        "type": "Dungeons",
+        "content": "Dzemael Darkhold",
+        "first_letter": "T",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Taulurd"
+    },
+    {
+        "name": "Temple Guardian",
+        "image": "boss_images\\Temple Guardian.jpg",
+        "type": "Dungeons",
+        "content": "The Sunken Temple of Qarn",
+        "first_letter": "T",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Temple_Guardian"
+    },
+    {
+        "name": "Teratotaur",
+        "image": "boss_images\\Teratotaur.jpg",
+        "type": "Dungeons",
+        "content": "The Sunken Temple of Qarn",
+        "first_letter": "T",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Teratotaur"
+    },
+    {
+        "name": "Terminus Bellwether",
+        "image": "boss_images\\Terminus Bellwether.jpg",
+        "type": "Dungeons",
+        "content": "Amaurot",
+        "first_letter": "T",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Terminus_Bellwether"
+    },
+    {
+        "name": "Terminus Snatcher",
+        "image": "boss_images\\Terminus Snatcher.jpg",
+        "type": "Dungeons",
+        "content": "Vanaspati",
+        "first_letter": "T",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Terminus_Snatcher"
+    },
+    {
+        "name": "Terminus Wrecker",
+        "image": "boss_images\\Terminus Wrecker.jpg",
+        "type": "Dungeons",
+        "content": "Vanaspati",
+        "first_letter": "T",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Terminus_Wrecker"
+    },
+    {
+        "name": "Tesleen, the Forgiven",
+        "image": "boss_images\\Tesleen, the Forgiven.jpg",
+        "type": "Dungeons",
+        "content": "Holminster Switch",
+        "first_letter": "T",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Tesleen,_the_Forgiven"
+    },
+    {
+        "name": "Thaliak (Boss)",
+        "image": "boss_images\\Thaliak (Boss).jpg",
+        "type": "Alliance Raids",
+        "content": "Thaleia",
+        "first_letter": "T",
+        "patch": "6.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Thaliak_(Boss)"
+    },
+    {
+        "name": "Thanatos",
+        "image": "boss_images\\Thanatos.jpg",
+        "type": "Alliance Raids",
+        "content": "The Labyrinth of the Ancients",
+        "first_letter": "T",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Thanatos"
+    },
+    {
+        "name": "The Avatar",
+        "image": "boss_images\\The Avatar.jpg",
+        "type": "Raids",
+        "content": "The Second Coil of Bahamut - Turn 3",
+        "first_letter": "T",
+        "patch": "2.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Avatar"
+    },
+    {
+        "name": "The Big Cheese",
+        "image": "boss_images\\The Big Cheese.jpg",
+        "type": "Dungeons",
+        "content": "Smileton",
+        "first_letter": "T",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Big_Cheese"
+    },
+    {
+        "name": "The Black Eft",
+        "image": "boss_images\\The Black Eft.jpg",
+        "type": "Dungeons",
+        "content": "Castrum Meridianum",
+        "first_letter": "T",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Black_Eft"
+    },
+    {
+        "name": "The Compound",
+        "image": "boss_images\\The Compound.jpg",
+        "type": "Alliance Raids",
+        "content": "The Puppets' Bunker",
+        "first_letter": "T",
+        "patch": "5.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Compound"
+    },
+    {
+        "name": "The Curator",
+        "image": "boss_images\\The Curator.jpg",
+        "type": "Dungeons",
+        "content": "The Fractal Continuum",
+        "first_letter": "T",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Curator"
+    },
+    {
+        "name": "The Demon Tome",
+        "image": "boss_images\\The Demon Tome.jpg",
+        "type": "Dungeons",
+        "content": "The Great Gubal Library",
+        "first_letter": "T",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Demon_Tome"
+    },
+    {
+        "name": "The Diamond Weapon",
+        "image": "boss_images\\The Diamond Weapon.jpg",
+        "type": "Trials",
+        "content": "The Cloud Deck",
+        "first_letter": "T",
+        "patch": "5.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Diamond_Weapon"
+    },
+    {
+        "name": "The Emerald Weapon",
+        "image": "boss_images\\The Emerald Weapon.jpg",
+        "type": "Trials",
+        "content": "Castrum Marinum",
+        "first_letter": "T",
+        "patch": "5.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Emerald_Weapon"
+    },
+    {
+        "name": "The Endsinger",
+        "image": "boss_images\\The Endsinger.jpg",
+        "type": "Trials",
+        "content": "The Final Day",
+        "first_letter": "T",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Endsinger"
+    },
+    {
+        "name": "The Everliving Bibliotaph",
+        "image": "boss_images\\The Everliving Bibliotaph.jpg",
+        "type": "Dungeons",
+        "content": "The Great Gubal Library",
+        "first_letter": "T",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Everliving_Bibliotaph"
+    },
+    {
+        "name": "The First Beast",
+        "image": "boss_images\\The First Beast.jpg",
+        "type": "Dungeons",
+        "content": "Amaurot",
+        "first_letter": "T",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_First_Beast"
+    },
+    {
+        "name": "The Governor",
+        "image": "boss_images\\The Governor.jpg",
+        "type": "Dungeons",
+        "content": "The Sirensong Sea",
+        "first_letter": "T",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Governor"
+    },
+    {
+        "name": "The Griffin",
+        "image": "boss_images\\The Griffin.jpg",
+        "type": "Dungeons",
+        "content": "Baelsar's Wall",
+        "first_letter": "T",
+        "patch": "3.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Griffin"
+    },
+    {
+        "name": "The Idol of Darkness",
+        "image": "boss_images\\The Idol of Darkness.jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Verse: Iconoclasm",
+        "first_letter": "T",
+        "patch": "5.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Idol_of_Darkness"
+    },
+    {
+        "name": "The Leightonward",
+        "image": "boss_images\\The Leightonward.jpg",
+        "type": "Dungeons",
+        "content": "Sohm Al (Hard)",
+        "first_letter": "T",
+        "patch": "3.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Leightonward"
+    },
+    {
+        "name": "The Magus Sisters",
+        "image": "boss_images\\The Magus Sisters.jpg",
+        "type": "Dungeons",
+        "content": "The Tower of Zot",
+        "first_letter": "T",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Magus_Sisters"
+    },
+    {
+        "name": "The Manipulator",
+        "image": "boss_images\\The Manipulator.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Burden of the Father",
+        "first_letter": "T",
+        "patch": "3.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Manipulator"
+    },
+    {
+        "name": "The Old One",
+        "image": "boss_images\\The Old One.jpg",
+        "type": "Dungeons",
+        "content": "The Drowned City of Skalla",
+        "first_letter": "T",
+        "patch": "4.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Old_One"
+    },
+    {
+        "name": "The Ruby Weapon",
+        "image": "boss_images\\The Ruby Weapon.jpg",
+        "type": "Trials",
+        "content": "Cinder Drift",
+        "first_letter": "T",
+        "patch": "5.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Ruby_Weapon"
+    },
+    {
+        "name": "The Thunder God",
+        "image": "boss_images\\The Thunder God.jpg",
+        "type": "Alliance Raids",
+        "content": "The Orbonne Monastery",
+        "first_letter": "T",
+        "patch": "4.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Thunder_God"
+    },
+    {
+        "name": "The Tycoon",
+        "image": "boss_images\\The Tycoon.jpg",
+        "type": "Dungeons",
+        "content": "The Twinning",
+        "first_letter": "T",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Tycoon"
+    },
+    {
+        "name": "The Ultima Beast",
+        "image": "boss_images\\The Ultima Beast.jpg",
+        "type": "Dungeons",
+        "content": "The Fractal Continuum (Hard)",
+        "first_letter": "T",
+        "patch": "4.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Ultima_Beast"
+    },
+    {
+        "name": "The Ultima Warrior",
+        "image": "boss_images\\The Ultima Warrior.jpg",
+        "type": "Dungeons",
+        "content": "The Fractal Continuum (Hard)",
+        "first_letter": "T",
+        "patch": "4.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Ultima_Warrior"
+    },
+    {
+        "name": "The Ultima Weapon",
+        "image": "boss_images\\The Ultima Weapon.jpg",
+        "type": "Trials",
+        "content": "The Porta Decumana",
+        "first_letter": "T",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Ultima_Weapon"
+    },
+    {
+        "name": "The Ultima Weapon (Woken)",
+        "image": "boss_images\\The Ultima Weapon (Woken).jpg",
+        "type": "Raid Finder",
+        "content": "The Weapon's Refrain (Ultimate)",
+        "first_letter": "T",
+        "patch": "4.31",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/The_Ultima_Weapon_(Woken)"
+    },
+    {
+        "name": "Themis (boss)",
+        "image": "boss_images\\Themis (boss).jpg",
+        "type": "Normal Raids",
+        "content": "Anabaseios: The Eleventh Circle",
+        "first_letter": "T",
+        "patch": "6.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Themis_(boss)"
+    },
+    {
+        "name": "Therion",
+        "image": "boss_images\\Therion.jpg",
+        "type": "Dungeons",
+        "content": "Amaurot",
+        "first_letter": "T",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Therion"
+    },
+    {
+        "name": "Thorne Knight",
+        "image": "boss_images\\Thorne Knight.jpg",
+        "type": "V&C Dungeon Finder",
+        "content": "The Sil'dihn Subterrane",
+        "first_letter": "T",
+        "patch": "6.25",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Thorne_Knight"
+    },
+    {
+        "name": "Thunderclap Guivre",
+        "image": "boss_images\\Thunderclap Guivre.jpg",
+        "type": "Dungeons",
+        "content": "Halatali",
+        "first_letter": "T",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Thunderclap_Guivre"
+    },
+    {
+        "name": "Tioman",
+        "image": "boss_images\\Tioman.jpg",
+        "type": "Dungeons",
+        "content": "Sohm Al",
+        "first_letter": "T",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Tioman"
+    },
+    {
+        "name": "Titan",
+        "image": "boss_images\\Titan.jpg",
+        "type": "Trials",
+        "content": "The Navel",
+        "first_letter": "T",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Titan"
+    },
+    {
+        "name": "Titan (Eden)",
+        "image": "boss_images\\Titan (Eden).jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Gate: Sepulture",
+        "first_letter": "T",
+        "patch": "5.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Titan_(Eden)"
+    },
+    {
+        "name": "Titan Maximum",
+        "image": "boss_images\\Titan Maximum.jpg",
+        "type": "Savage Raids",
+        "content": "Eden's Gate: Sepulture (Savage)",
+        "first_letter": "T",
+        "patch": "5.05",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Titan_Maximum"
+    },
+    {
+        "name": "Titania",
+        "image": "boss_images\\Titania.jpg",
+        "type": "Trials",
+        "content": "The Dancing Plague",
+        "first_letter": "T",
+        "patch": "5.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Titania"
+    },
+    {
+        "name": "Tokkapchi",
+        "image": "boss_images\\Tokkapchi.jpg",
+        "type": "Dungeons",
+        "content": "Saint Mocianne's Arboretum (Hard)",
+        "first_letter": "T",
+        "patch": "4.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Tokkapchi"
+    },
+    {
+        "name": "Tonberry King",
+        "image": "boss_images\\Tonberry King.jpg",
+        "type": "Dungeons",
+        "content": "The Wanderer's Palace",
+        "first_letter": "T",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Tonberry_King"
+    },
+    {
+        "name": "Towering Oliphant",
+        "image": "boss_images\\Towering Oliphant.jpg",
+        "type": "Dungeons",
+        "content": "The Dusk Vigil",
+        "first_letter": "T",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Towering_Oliphant"
+    },
+    {
+        "name": "Tozol Huatotl",
+        "image": "boss_images\\Tozol Huatotl.jpg",
+        "type": "Dungeons",
+        "content": "Xelphatol",
+        "first_letter": "T",
+        "patch": "3.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Tozol_Huatotl"
+    },
+    {
+        "name": "Tr\u00e4umerei",
+        "image": "boss_images\\Tr\u00e4umerei.jpg",
+        "type": "Dungeons",
+        "content": "The Strayborough Deadwalk",
+        "first_letter": "T",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Tr%C3%A4umerei"
+    },
+    {
+        "name": "Tsukuyomi",
+        "image": "boss_images\\Tsukuyomi.jpg",
+        "type": "Trials",
+        "content": "Castrum Fluminis",
+        "first_letter": "T",
+        "patch": "4.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Tsukuyomi"
+    },
+    {
+        "name": "Twintania",
+        "image": "boss_images\\Twintania.jpg",
+        "type": "Raids",
+        "content": "The Binding Coil of Bahamut - Turn 5",
+        "first_letter": "T",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Twintania"
+    },
+    {
+        "name": "Typhon",
+        "image": "boss_images\\Typhon.jpg",
+        "type": "Trials",
+        "content": "The Dragon's Neck",
+        "first_letter": "T",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Typhon"
+    },
+    {
+        "name": "Tyrant",
+        "image": "boss_images\\Tyrant.jpg",
+        "type": "Dungeons",
+        "content": "Pharos Sirius",
+        "first_letter": "T",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Tyrant"
+    },
+    {
+        "name": "Ultima, the High Seraph",
+        "image": "boss_images\\Ultima, the High Seraph.jpg",
+        "type": "Alliance Raids",
+        "content": "The Orbonne Monastery",
+        "first_letter": "U",
+        "patch": "4.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ultima,_the_High_Seraph"
+    },
+    {
+        "name": "Ultros",
+        "image": "boss_images\\Ultros.jpg",
+        "type": "Trials",
+        "content": "The Dragon's Neck",
+        "first_letter": "U",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ultros"
+    },
+    {
+        "name": "Unknown",
+        "image": "boss_images\\Unknown.jpg",
+        "type": "Dungeons",
+        "content": "Anamnesis Anyder",
+        "first_letter": "U",
+        "patch": "5.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Unknown"
+    },
+    {
+        "name": "Valigarmanda",
+        "image": "boss_images\\Valigarmanda.jpg",
+        "type": "Trials",
+        "content": "Worqor Lar Dor",
+        "first_letter": "V",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Valigarmanda"
+    },
+    {
+        "name": "Vanguard Commander R8",
+        "image": "boss_images\\Vanguard Commander R8.jpg",
+        "type": "Dungeons",
+        "content": "Vanguard",
+        "first_letter": "V",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Vanguard_Commander_R8"
+    },
+    {
+        "name": "Varis yae Galvus",
+        "image": "boss_images\\Varis yae Galvus.jpg",
+        "type": "High-end Trials",
+        "content": "Memoria Misera (Extreme)",
+        "first_letter": "V",
+        "patch": "5.25",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Varis_yae_Galvus"
+    },
+    {
+        "name": "Vicegerent to the Warden",
+        "image": "boss_images\\Vicegerent to the Warden.jpg",
+        "type": "Dungeons",
+        "content": "The Sunken Temple of Qarn (Hard)",
+        "first_letter": "V",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Vicegerent_to_the_Warden"
+    },
+    {
+        "name": "Void Soulcounter",
+        "image": "boss_images\\Void Soulcounter.jpg",
+        "type": "Dungeons",
+        "content": "The Tam-Tara Deepcroft",
+        "first_letter": "V",
+        "patch": "2.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Void_Soulcounter"
+    },
+    {
+        "name": "Voidwalker",
+        "image": "boss_images\\Voidwalker.jpg",
+        "type": "Normal Raids",
+        "content": "Eden's Gate: Descent",
+        "first_letter": "V",
+        "patch": "5.01",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Voidwalker"
+    },
+    {
+        "name": "Vortexer",
+        "image": "boss_images\\Vortexer.jpg",
+        "type": "Normal Raids",
+        "content": "Alexander - The Cuff of the Son",
+        "first_letter": "V",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Vortexer"
+    },
+    {
+        "name": "Wandil",
+        "image": "boss_images\\Wandil.jpg",
+        "type": "Dungeons",
+        "content": "Snowcloak",
+        "first_letter": "W",
+        "patch": "2.4",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Wandil"
+    },
+    {
+        "name": "Warrior of Light (Boss)",
+        "image": "boss_images\\Warrior of Light (Boss).jpg",
+        "type": "Trials",
+        "content": "The Seat of Sacrifice",
+        "first_letter": "W",
+        "patch": "5.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Warrior_of_Light_(Boss)"
+    },
+    {
+        "name": "Waukkeon",
+        "image": "boss_images\\Waukkeon.jpg",
+        "type": "Dungeons",
+        "content": "Neverreap",
+        "first_letter": "W",
+        "patch": "3.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Waukkeon"
+    },
+    {
+        "name": "Winged Lion",
+        "image": "boss_images\\Winged Lion.jpg",
+        "type": "Dungeons",
+        "content": "The Lost City of Amdapor (Hard)",
+        "first_letter": "W",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Winged_Lion"
+    },
+    {
+        "name": "Xande",
+        "image": "boss_images\\Xande.jpg",
+        "type": "Alliance Raids",
+        "content": "Syrcus Tower",
+        "first_letter": "X",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Xande"
+    },
+    {
+        "name": "Xun-Zi & Meng-Zi",
+        "image": "boss_images\\Xun-Zi & Meng-Zi.jpg",
+        "type": "Alliance Raids",
+        "content": "The Tower at Paradigm's Breach",
+        "first_letter": "X",
+        "patch": "5.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Xun-Zi_%26_Meng-Zi"
+    },
+    {
+        "name": "Yiazmat",
+        "image": "boss_images\\Yiazmat.jpg",
+        "type": "Alliance Raids",
+        "content": "The Ridorana Lighthouse",
+        "first_letter": "Y",
+        "patch": "4.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Yiazmat"
+    },
+    {
+        "name": "Ymir",
+        "image": "boss_images\\Ymir.jpg",
+        "type": "Dungeons",
+        "content": "Hullbreaker Isle (Hard)",
+        "first_letter": "Y",
+        "patch": "3.3",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ymir"
+    },
+    {
+        "name": "Yojimbo (boss)",
+        "image": "boss_images\\Yojimbo (boss).jpg",
+        "type": "Dungeons",
+        "content": "Kugane Castle",
+        "first_letter": "Y",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Yojimbo_(boss)"
+    },
+    {
+        "name": "Yol",
+        "image": "boss_images\\Yol.jpg",
+        "type": "Dungeons",
+        "content": "Bardam's Mettle",
+        "first_letter": "Y",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Yol"
+    },
+    {
+        "name": "Zander the Snakeskinner",
+        "image": "boss_images\\Zander the Snakeskinner.jpg",
+        "type": "Dungeons",
+        "content": "Vanguard",
+        "first_letter": "Z",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Zander_the_Snakeskinner"
+    },
+    {
+        "name": "Zenos yae Galvus",
+        "image": "boss_images\\Zenos yae Galvus.jpg",
+        "type": "Dungeons",
+        "content": "Ala Mhigo",
+        "first_letter": "Z",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Zenos_yae_Galvus"
+    },
+    {
+        "name": "Zeromus",
+        "image": "boss_images\\Zeromus.jpg",
+        "type": "Trials",
+        "content": "The Abyssal Fracture",
+        "first_letter": "Z",
+        "patch": "6.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Zeromus"
+    },
+    {
+        "name": "Ziggy",
+        "image": "boss_images\\Ziggy.jpg",
+        "type": "Dungeons",
+        "content": "The Antitower",
+        "first_letter": "Z",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Ziggy"
+    },
+    {
+        "name": "Zodiark",
+        "image": "boss_images\\Zodiark.jpg",
+        "type": "Trials",
+        "content": "The Dark Inside",
+        "first_letter": "Z",
+        "patch": "6.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Zodiark"
+    },
+    {
+        "name": "Zoraal Ja (boss)",
+        "image": "boss_images\\Zoraal Ja (boss).jpg",
+        "type": "Trials",
+        "content": "Everkeep",
+        "first_letter": "Z",
+        "patch": "7.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Zoraal_Ja_(boss)"
+    },
+    {
+        "name": "Zu (Boss)",
+        "image": "boss_images\\Zu (Boss).jpg",
+        "type": "Dungeons",
+        "content": "Pharos Sirius",
+        "first_letter": "Z",
+        "patch": "2.1",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Zu_(Boss)"
+    },
+    {
+        "name": "Zuiko-maru",
+        "image": "boss_images\\Zuiko-maru.jpg",
+        "type": "Dungeons",
+        "content": "Kugane Castle",
+        "first_letter": "Z",
+        "patch": "4.0",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Zuiko-maru"
+    },
+    {
+        "name": "Zuro Roggo",
+        "image": "boss_images\\Zuro Roggo.jpg",
+        "type": "Dungeons",
+        "content": "The Antitower",
+        "first_letter": "Z",
+        "patch": "3.2",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Zuro_Roggo"
+    },
+    {
+        "name": "Zurvan",
+        "image": "boss_images\\Zurvan.jpg",
+        "type": "Trials",
+        "content": "Containment Bay Z1T9",
+        "first_letter": "Z",
+        "patch": "3.5",
+        "wiki_link": "https://ffxiv.consolegameswiki.com/wiki/Zurvan"
+    }
+]
